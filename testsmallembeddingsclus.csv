@@ -1,0 +1,1116 @@
+structure,n_tokens,ada_embedding,Cluster
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{présentation du contexte, présentation du sujet principal},
+
+Corps
+{point principal 1, arguments et exemples},
+{point principal 2, arguments et exemples}, 
+{point principal 3, arguments et exemples},
+
+Conclusion
+{résumé des points principaux, appel à l'action}
+}
+
+L'introduction présente le contexte général et introduit le sujet principal du talk. 
+
+Le corps développe les différents points principaux, chacun soutenu par des arguments et des exemples concrets.
+
+La conclusion résume les idées clés et lance un appel à l'action en lien avec le sujet.
+
+Cette structure générique pourrait être réutilisée en adaptant les points principaux, les arguments et les exemples à un nouveau sujet, tout en gardant la même construction en introduction, développement et conclusion. Les informations sur le thème, le ton et les sources pourraient être intégrées dans les différentes parties.",299,"[-0.00142583  0.0103825   0.00663149 ... -0.02539937 -0.02584744
+ -0.02734529]",0
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+    {Remerciements, Anecdote personnelle},
+Corps
+    {Rappel des points clés du précédent talk,
+        {Point clé 1, Exemple/Anecdote},
+        {Point clé 2, Exemple/Anecdote},
+        {Point clé 3, Exemple/Anecdote}
+    },
+Actions concrètes  
+    {Appel à l'action individuelle,
+        {Action 1, Explication},
+        {Action 2, Explication},
+        {Action 3, Explication}
+    },
+    {Appel à l'action collective,
+        {Action 1, Explication}, 
+        {Action 2, Explication},
+        {Action 3, Explication}
+    }
+Conclusion    
+    {Message d'espoir, Appel à l'unité}
+}
+
+Cette structure capture l'introduction avec les remerciements et une anecdote personnelle, le corps qui résume les points clés et donne des exemples/anecdotes, la partie sur les actions concrètes individuelles et collectives, et une conclusion avec un message d'espoir et un appel à l'unité. Le schéma est assez détaillé sur la structure en sections et sous-",413,"[-0.01588502  0.00630941  0.01651465 ... -0.03641355 -0.01650153
+ -0.03142899]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction
+   {Accroche humoristique},
+   {Présentation du sujet},
+   {Problématique}
+},
+
+{Corps
+   {Causes du problème}, 
+   {Exemples concrets},
+   {Solutions possibles}
+},
+
+{Conclusion
+   {Synthèse},
+   {Message final}
+}
+
+L'introduction comporte une accroche humoristique pour capter l'attention, une présentation du sujet traité et la problématique abordée. 
+
+Le corps développe les causes du problème évoqué, donne des exemples concrets et propose des solutions possibles.
+
+Enfin, la conclusion fait une synthèse et lance un message final.
+
+Cette structure peut être réutilisée en adaptant le contenu à un nouveau thème, ton et sources d'information, tout en conservant la progression logique et impactante du discours.",274,"[-0.00821211  0.00972487  0.00299056 ... -0.01847089 -0.02228457
+ -0.03002632]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{Présentation de l'orateur et du contexte},
+{Problématique et thèse défendue}
+},
+
+{Corps
+{Récit personnel illustrant la problématique}, 
+{Données et statistiques appuyant la thèse},
+{Exemples concrets de solutions possibles},
+{Appel à l'action}
+},
+
+{Conclusion
+{Rappel de la thèse},
+{Projection positive sur l'avenir}, 
+{Remerciements}
+}
+
+Cette structure décrit les grandes parties du talk (introduction, corps, conclusion) et les sous-parties importantes dans chacune d'elle. Elle est assez générique pour être réutilisée avec d'autres thèmes, tons et sources d'informations, en adaptant le contenu des sous-parties mais en conservant la structure.",253,"[-0.00036228  0.0061923   0.01072389 ... -0.02160226 -0.02814215
+ -0.02796192]",0
+" Voici une structure sémantique générique pour un TED talk :
+
+{Introduction 
+{Accroche, Présentation du sujet, Présentation du contexte},
+
+Corps
+{Partie 1 {Point 1, Point 2, Point 3},
+Partie 2 {Point A, Point B, Point C},
+Partie 3 {Exemple 1, Exemple 2}},
+
+Conclusion  
+{Résumé, Message final, Ouverture}}
+
+Cette structure comprend :
+- Une introduction avec une accroche pour capter l'attention, une présentation du sujet traité et du contexte.
+
+- Un corps organisé en différentes parties, chacune composée de plusieurs points ou exemples. 
+
+- Une conclusion pour résumer les idées principales, donner un message final et une ouverture.
+
+Le niveau de détail peut être adapté selon les besoins, avec plus ou moins de parties et de sous-points. L'important est d'avoir une structure logique et cohérente.",274,"[-0.01031441  0.01439073  0.01276147 ... -0.02999864 -0.01508807
+ -0.03400522]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{accroche, présentation du thème, annonce du plan},
+
+Corps
+{anecdote personnelle, 
+points clés 1 {sous-point a, sous-point b},
+point clé 2,
+point clé 3 {sous-point x, sous-point y},
+exemples concrets},
+
+Conclusion  
+{résumé des points clés, 
+ouverture, 
+remerciements}
+}
+
+L'introduction comporte une accroche pour capter l'attention, la présentation du thème traité et l'annonce du plan qui va être suivi. 
+
+Le corps développe plusieurs points clés étayés par des exemples concrets. Il commence par une anecdote personnelle qui illustre le propos.
+
+La conclusion résume les idées clés, ouvre sur de nouvelles perspectives et remercie l'audience.
+
+Cette structure type peut être adaptée à différents talks en fonction du thème, du ton souhaité et des informations à transmettre, tout en conservant une cohérence d'ensemble. Les points clés et exemples seraient bien sûr à",332,"[-0.01282241  0.00376067  0.01590978 ... -0.02748411 -0.02224216
+ -0.03515653]",1
+" Voici la structure sémantique générique que j'ai identifiée dans ce texte :
+
+{Introduction 
+{Présentation de l'orateur, Contexte de l'histoire},
+
+Corps
+{Anecdote 1 - Âge de raison, 
+Anecdote 2 - Anniversaire décalé,
+Anecdote 3 - Visite des missionnaires mormons},
+
+Conclusion  
+{Réflexion sur ses croyances, Mise en perspective}}
+
+Cette structure pourrait être réutilisée pour écrire un nouveau talk en remplaçant les éléments spécifiques (anecdotes, réflexion) par de nouvelles informations, tout en conservant la progression logique introduction - corps - conclusion. Le ton humoristique et autobiographique pourrait également être reproduit.",217,"[-0.00191777  0.00295569  0.01771456 ... -0.02106455 -0.01448188
+ -0.0326657 ]",2
+" Voici une proposition de structure sémantique générique pour un TED Talk :
+
+{Introduction
+   {Titre du talk, Nom du speaker, Contexte},
+   {Présentation du sujet et des idées principales en quelques phrases}
+},
+
+{Corps
+   {Projet 1
+      {Description du projet, Contraintes, Concept/idée clé, Images}
+   },
+   {Projet 2  
+      {Description du projet, Contraintes, Concept/idée clé, Images}
+   }, 
+   {Projet 3
+      {Description du projet, Contraintes, Concept/idée clé, Images}
+   }
+},
+
+{Conclusion
+   {Résumé des idées clés}, 
+   {Perspectives futures},
+   {Remerciements}
+}
+
+L'idée est d'avoir une introduction qui pose le contexte, présente brièvement le sujet et les idées clés qui vont être développées. 
+
+Le corps présente en détail chaque projet ou idée, en décrivant le projet, les contraintes, le concept clé et en montrant des images. 
+
+La conclusion résume les idées principales, donne des perspectives sur le futur et remercie le public.
+
+Ce modèle pourrait être réutilisé en changeant les projets/idées",378,"[-0.00726382  0.00823276 -0.00114861 ... -0.02494853 -0.01978942
+ -0.02601372]",0
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+  {Accroche, Présentation du sujet, Annonce du plan},
+Corps
+  {Point 1 
+    {Explication, Exemples},
+  Point 2
+    {Explication, Exemples},
+  Point 3
+    {Explication, Exemples}
+  },
+Conclusion 
+  {Résumé des points clés, Appel à l'action}
+}
+
+L'introduction présente le sujet de manière accrocheuse, explique brièvement de quoi il s'agit et annonce le plan qui sera suivi. 
+
+Le corps développe les différents points clés du sujet, chacun étant expliqué et illustré par des exemples concrets. 
+
+Enfin, la conclusion résume les idées principales et lance un appel à l'action ou une ouverture.
+
+Cette structure générique permet d'organiser les informations et les idées de manière logique dans un talk, et peut être réutilisée pour différents sujets en adaptant les points clés et exemples. En fournissant le thème, le ton souhaité et les sources d'information, on peut écrire un nouveau talk en suivant ce",352,"[-0.01055328  0.0080577   0.00332316 ... -0.02466067 -0.02666226
+ -0.02408329]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{Accroche pour capter l'attention, Présentation du conférencier et du sujet},
+
+Corps
+{Anecdote personnelle, 
+Point de vue sur le sujet,
+Exemples et références pour appuyer le point de vue,
+Question rhétorique pour amener à réfléchir},
+
+Conclusion
+{Résumé du point de vue, 
+Appel à l'action pour le public}}
+
+Cette structure met en évidence les différentes parties du talk : une introduction pour présenter le conférencier et capter l'attention, un corps organisé autour d'un point de vue illustré par des exemples et une question rhétorique, et une conclusion avec un résumé et un appel à l'action. 
+
+Les accolades permettent de voir la structure de manière hiérarchique. Le niveau de détail est suffisant pour comprendre le déroulement du talk de manière générique et pouvoir s'en inspirer pour en écrire un nouveau sur un autre thème ou avec une autre source d'information. Il suffirait de remplacer le contenu",328,"[-0.00734638  0.00490408  0.01347162 ... -0.02961937 -0.02321483
+ -0.02902178]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+ {Présentation du thème,
+  Présentation du contexte et de l'expérience personnelle},
+Corps
+ {Présentation du problème concret,
+  Solutions proposées,
+  Exemples concrets de solutions,
+  Appel à l'action},  
+Conclusion
+ {Rappel du problème,
+  Rappel de la solution proposée,
+  Expression du souhait/de l'appel à l'action}}
+
+Cette structure permet de présenter :
+- En introduction : le thème général et le contexte/l'expérience personnelle qui amène à ce thème
+- Dans le corps : 
+   - Le problème concret auquel on veut s'attaquer
+   - Les solutions imaginées pour résoudre ce problème
+   - Des exemples concrets de ces solutions 
+   - Un appel à l'action pour mobiliser sur ce problème
+- En conclusion :
+   - Un rappel du problème
+   - Un rappel de la solution proposée
+   - L'expression d'un souhait ou d'un appel à l'action pour conclure
+
+Le niveau de détail permet de bien comprendre la structure et de la",352,"[ 0.00423757  0.01523708  0.00733949 ... -0.02443903 -0.02979926
+ -0.03286225]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction
+  {Accroche personnelle},
+  {Présentation du sujet},
+  {Présentation de la thèse}
+}
+
+{Développement
+  {Expérience personnelle}, 
+  {Exemples concrets},
+  {Témoignages}
+}
+
+{Conclusion
+  {Rappel de la thèse},
+  {Présentation du projet}, 
+  {Appel à l'action}
+}
+
+Cette structure suit un schéma classique :
+
+- Une introduction qui accroche l'auditoire, présente le sujet et la thèse défendue
+
+- Un développement qui appuie la thèse via des expériences personnelles, des exemples concrets et des témoignages
+
+- Une conclusion qui rappelle la thèse, présente un projet concret découlant de cette thèse et lance un appel à l'action
+
+Ce modèle peut être réutilisé en adaptant les points spécifiques selon le thème, le ton et les sources d'information du nouveau talk, tout en conservant la structure d'ensemble.",323,"[-0.00109433  0.0048125   0.01610139 ... -0.02108028 -0.02675032
+ -0.02456166]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+{Présentation de l'orateur et de son expertise},
+{Annonce du sujet et de l'objectif du talk}
+},
+
+{Corps
+{Récit d'une expérience personnelle en lien avec le sujet}, 
+{Présentation d'un problème de santé publique},
+{Exemples concrets du problème avec images/vidéos},
+{Explication de la solution proposée},
+{Présentation d'un système existant similaire},
+{Appel à l'action pour développer cette solution}
+},
+
+{Conclusion
+{Résumé de l'objectif et de la solution proposée},
+{Remerciements},
+{Appel à participer au projet}
+}
+
+Cette structure permet de présenter le sujet, d'exposer le problème, de proposer une solution concrète et de conclure par un appel à l'action. Elle pourrait être réutilisée pour un autre talk en adaptant les points spécifiques selon le thème, le ton et les informations fournies.",311,"[ 0.001911    0.01109967  0.01344667 ... -0.02046177 -0.0300054
+ -0.03031661]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction
+    {Présentation personnelle},
+    {Objectifs et motivation du talk},
+    {Annonce du plan}
+},
+{Corps 
+    {Présentation de la technologie}, 
+    {Démonstration interactive},
+    {Applications concrètes},
+    {Perspectives futures}
+},
+{Conclusion
+    {Résumé},
+    {Ouverture}
+}
+
+L'introduction présente le contexte, les objectifs et annonce le plan.
+
+Le corps présente d'abord la technologie, fait une démonstration interactive, montre des applications concrètes et ouvre sur les perspectives. 
+
+La conclusion résume les points clés et ouvre sur de nouvelles possibilités.
+
+Cette structure peut être réutilisée en adaptant le contenu pour un nouveau talk, tout en conservant une trame cohérente et engageante. Les différentes parties apportent de la variété et permettent de maintenir l'intérêt. Le passage de la technologie à ses applications concrètes rend le propos plus accessible.",328,"[-8.12200306e-05  1.36318030e-02  1.11939060e-02 ... -1.87245831e-02
+ -1.51251750e-02 -2.00264975e-02]",0
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+  {Présentation de l'orateur, 
+  Expérience professionnelle pertinente,
+  Présentation du sujet principal}
+},
+
+{Corps
+  {Contexte et justification du projet,
+  Anecdotes et exemples concrets, 
+  Détails techniques et fonctionnalités clés,
+  Planning et pays impliqués,
+  Critiques potentielles et réponses,
+  Philosophie et valeurs du projet}
+},
+
+{Conclusion
+  {Résumé des points clés, 
+  Projections futures,
+  Message final}
+}
+
+L'idée est d'identifier les grandes parties (introduction, corps, conclusion) et les sous-parties récurrentes dans ce type de discours (présentation, contexte, détails techniques, planning, critiques, valeurs, projections, etc.). Cette structure générique pourrait être réutilisée en remplaçant le contenu spécifique par de nouvelles informations sur un autre sujet, tout en conservant le plan et la logique du discours.",308,"[-0.00102182  0.00764922  0.00557356 ... -0.02844435 -0.02011605
+ -0.02929   ]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{Présentation de l'orateur, Sujet abordé},
+Corps
+{Anecdote personnelle, Explications techniques, Analogie historique, Expérience personnelle},
+Conclusion
+{Leçon tirée, Remerciements}
+}
+
+L'introduction présente l'orateur et le sujet du talk.
+
+Le corps contient une anecdote personnelle, des explications techniques sur le sujet, une analogie historique et le partage d'une expérience personnelle. 
+
+La conclusion résume la leçon tirée par l'orateur et exprime des remerciements.
+
+Cette structure pourrait être réutilisée en remplaçant les éléments spécifiques (orateur, sujet, anecdote, explications techniques, etc.) par des informations génériques sur un nouveau thème pour générer un nouveau talk selon le même modèle.",258,"[-0.00285025  0.00786829  0.0097631  ... -0.03152454 -0.01736804
+ -0.02841576]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+{Salutations, Remerciements, Présentation},
+Corps
+{Présentation de l'artiste, 
+Explication du processus créatif,
+Performance musicale 1,
+Discussion sur un sujet connexe,
+Performance musicale 2 avec participation du public,
+Performance musicale 3},
+Conclusion
+{Remerciements, Salutations}}
+
+L'introduction comprend les salutations initiales, les remerciements à l'organisateur et la brève présentation de l'artiste. 
+
+Le corps contient la présentation plus détaillée de l'artiste, l'explication de son processus créatif, trois performances musicales entrecoupées d'une discussion sur un sujet connexe (ici le lien entre la composition musicale et le dessin).
+
+La conclusion comprend les remerciements finaux et les salutations.
+
+Cette structure permet de réutiliser ce modèle pour écrire un nouveau talk en remplaçant simplement le contenu de chaque partie selon le thème, le ton et les informations fournies. Les parties principales (introduction, corps, conclusion) restent identiques.",321,"[-0.00920787  0.01877733  0.00723844 ... -0.02466623 -0.01674979
+ -0.02773983]",0
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+{Présentation du sujet, Mise en contexte du problème},
+
+Corps
+{Présentation de la solution technologique, 
+Détails techniques sur le fonctionnement,
+Expérimentation et validation sur le terrain},
+
+Conclusion
+{Potentialités et impact positif de la solution,
+Appel à l'action pour développer et déployer la solution}}
+
+Cette structure suit un schéma classique : une introduction qui présente le contexte et le problème, un corps qui détaille la solution technologique et son développement, et une conclusion qui résume les bénéfices potentiels et appelle à agir. Elle est assez générique pour s'appliquer à beaucoup de talks technologiques visant à résoudre un problème concret. En me fournissant des informations sur le thème, le ton et les sources, je pourrais utiliser cette structure pour générer un nouveau texte.",281,"[ 0.0068561   0.00659241  0.00715196 ... -0.02041395 -0.02654972
+ -0.01746827]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+   {Accroche personnelle, 
+    Présentation du sujet}
+Corps
+   {Idée 1 
+      {Exemples concrets,
+       Image forte}
+    Idée 2
+       {Exemples concrets, 
+        Image forte}
+    Idée 3
+       {Exemples concrets,
+        Image forte}
+Conclusion
+    {Résumé,
+     Projection vers l'avenir,
+     Remerciements}}
+
+Cette structure comprend :
+- Une introduction avec une accroche personnelle pour capter l'attention et une présentation du sujet traité
+- Un corps organisé en plusieurs idées principales, chacune illustrée par des exemples concrets et une image forte 
+- Une conclusion faisant un résumé, une projection vers l'avenir et des remerciements
+
+Le niveau de détail est suffisant pour comprendre la structure mais reste générique pour pouvoir l'adapter à différents thèmes et tons en remplaçant le contenu. Si vous me fournissez des informations sur le thème, le ton souhaité et des sources d'information, je pourrai réutiliser ce modèle pour générer un nouveau talk.",394,"[-0.01423536  0.00618845  0.0090923  ... -0.02444404 -0.0335557
+ -0.02715431]",1
+" Voici une structure sémantique générique pour un TED Talk :
+
+{Introduction
+  {Présentation du speaker, Contexte et problématique},
+Corps
+  {Point clé 1, 
+    Arguments et preuves,
+    Exemples
+  },
+  {Point clé 2,
+    Arguments et preuves, 
+    Exemples
+  },  
+  {Point clé 3,
+    Arguments et preuves,
+    Exemples
+  },
+Conclusion 
+  {Résumé des points clés,
+    Message final}
+}
+
+Cette structure permet de présenter le contexte et la problématique dans l'introduction, de développer les points clés argumentés dans le corps du texte, et de conclure en résumant les idées principales. Elle est suffisamment générique pour s'adapter à différents thèmes et contenus, tout en fournissant un cadre sémantique précis pour structurer l'information. Les points clés, arguments, preuves et exemples peuvent être complétés en fonction du contenu spécifique du talk.",316,"[-0.00336856  0.00335889  0.00707881 ... -0.02431811 -0.0247565
+ -0.03906886]",0
+" Voici une proposition de structure sémantique générique pour le TED talk :
+
+{Introduction 
+  {Présentation du sujet, 
+  Annonce du plan,
+  Accroche de l'audience},
+
+Corps
+  {Point 1 - Explication du problème/situation actuelle,
+  Point 2 - Présentation de la solution/vision, 
+  Point 3 - Comment passer de la situation actuelle à la solution,
+  Point 4 - Mise en œuvre concrète de la solution},
+  
+Conclusion 
+  {Rappel des points clés, 
+  Appel à l'action/contribution,
+  Remerciements}
+}
+
+Cette structure suit un schéma classique : introduction pour présenter le sujet et accrocher l'audience, corps développant les idées principales, et conclusion pour synthétiser et appeler à agir. Elle est suffisamment générique pour s'adapter à différents thèmes et styles de talks, en adaptant les points développés dans le corps. Les informations sur le thème, le ton et les sources pourraient être intégrées dans cette structure pour générer un nouveau talk.",312,"[-0.00361289  0.00621378  0.00472802 ... -0.0200852  -0.028439
+ -0.02354017]",0
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+ {Accroche humoristique, 
+ Présentation du thème du talk},
+
+Corps
+{Présentation de l'orateur,
+ Blagues et sketchs humoristiques,
+ Interactions avec le public,
+ Transition vers le sujet sérieux},  
+
+Conclusion
+{Présentation du projet sérieux,
+ Message à retenir,
+ Clôture humoristique}}
+
+L'idée est de captiver l'audience avec une introduction humoristique, puis de maintenir l'attention avec des blagues et du contenu amusant. La transition vers le sujet sérieux se fait ensuite, avant de conclure à nouveau sur une note humoristique.
+
+Cette structure permet d'aborder des sujets sérieux de manière engageante grâce à l'humour. Elle est réutilisable en adaptant les différents points selon le thème, le ton desired et la source d'information du nouveau talk.",279,"[-0.00301944 -0.00766034  0.01062269 ... -0.02123232 -0.01982293
+ -0.03330356]",1
+" Voici une proposition de structure sémantique générique pour un TED Talk :
+
+{Introduction 
+  {Présentation personnelle, 
+  Nervosité avant le discours,
+  Transition vers le sujet principal},
+
+Corps
+  {Expériences personnelles liées au sujet,
+   Exemples concrets,
+   Anecdotes,
+   Informations contextuelles et historiques,
+   Apport du sujet dans la vie des gens,
+   Appel à l'action},
+   
+Conclusion 
+  {Résumé des points clés,
+  Message d'espoir/inspiration, 
+  Remerciements}
+}
+
+Cette structure permet de capturer les différentes parties communes à de nombreux TED Talks, avec une introduction qui pose le contexte et le sujet, un corps développant le propos à travers des exemples et expériences, et une conclusion qui résume et inspire. Le niveau de détail devrait permettre de s'en servir comme modèle pour écrire un nouveau talk en remplaçant les éléments génériques par le contenu spécifique.",308,"[-0.01121859  0.01450367  0.01292605 ... -0.02661819 -0.01617866
+ -0.03152632]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+  {Présenter le sujet du talk},
+  {Donner le contexte et l'intérêt du sujet},
+  {Annoncer le plan du talk}
+},
+
+{Corps
+  {Présenter le travail de recherche personnel sur le sujet},
+  {Donner des exemples et anecdotes pour illustrer}, 
+  {Apporter un éclairage scientifique sur le sujet},
+  {Discuter l'impact sociétal du sujet}
+},
+
+{Conclusion
+  {Rappeler les points clés},
+  {Exprimer une préoccupation},
+  {Terminer sur une note positive}
+}
+
+Cette structure pourrait être réutilisée pour écrire un nouveau talk en remplaçant le contenu de chaque partie par de nouvelles informations correspondant au nouveau thème, ton et sources, tout en conservant la structure d'introduction, de corps et de conclusion. Les parties du corps peuvent être réorganisées ou omises si certaines ne s'appliquent pas au nouveau talk. Le niveau de détail permet de comprendre le type d'information attendu dans chaque partie.",331,"[-0.00325805  0.00922794  0.01905994 ... -0.02019094 -0.02121912
+ -0.03079407]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{présentation du sujet, mise en contexte personnelle},
+
+Corps
+{récit d'une anecdote marquante, 
+témoignages et histoires de femmes inspirantes,
+appel à l'action et à l'engagement},
+
+Conclusion
+{leçons apprises, 
+message d'espoir}}
+
+Cette structure est centrée autour d'une introduction qui pose le contexte, d'un corps organisé autour de récits et d'exemples, et d'une conclusion qui résume les apprentissages. Elle pourrait être réutilisée pour un nouveau talk en adaptant les points spécifiques au nouveau sujet, tout en gardant la même progression narrative. Les informations sur le thème, le ton et les sources pourraient être intégrées dans les différentes parties en suivant ce modèle.",255,"[-0.01369582  0.00372475  0.00349755 ... -0.01880296 -0.01400302
+ -0.02767324]",1
+" Voici une proposition de structure sémantique générique pour le TED Talk :
+
+{Introduction 
+  {Thèse générale},
+  {Premier argument connu}, 
+  {Second argument connu}
+}
+
+{Corps
+  {Réfutation du premier argument},
+  {Réfutation du second argument},
+  {Nouvelle thèse}  
+}
+
+{Conclusion
+  {Application de la nouvelle thèse},
+  {Message final}
+}
+
+L'introduction présente la thèse générale ainsi que deux arguments connus qui s'y rapportent. 
+
+Le corps contient les réfutations détaillées de ces deux arguments, amenant à une nouvelle thèse.
+
+La conclusion applique cette nouvelle thèse à un exemple concret, et se termine par un message final.
+
+Cette structure pourrait être réutilisée pour écrire un nouveau talk en remplaçant les éléments par de nouvelles thèses et de nouveaux arguments, tout en conservant la progression logique.",286,"[-0.00368814  0.01532297  0.00492293 ... -0.02704206 -0.02719762
+ -0.02709391]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+  {Présenter le sujet},
+  {Citer une phrase d'introduction percutante},
+  {Donner le plan}
+},
+
+{Corps
+  {Apporter des preuves et des exemples pour soutenir l'idée principale},
+  {Expliquer les concepts scientifiques pertinents}, 
+  {Raconter des anecdotes et des expériences pour illustrer les points},
+  {Faire des comparaisons et des analogies pour aider à la compréhension},
+  {Poser des questions rhétoriques},
+  {Utiliser l'humour quand c'est approprié}
+},
+
+{Conclusion
+  {Résumer les points principaux}, 
+  {Ouvrir sur des questions philosophiques},
+  {Terminer par une phrase percutante}
+}
+
+Cette structure permet d'organiser les idées de manière logique en introduction, développement et conclusion. Les éléments entre accolades donnent des indications sur le type d'informations à inclure dans chaque partie. Elle est suffisamment générique pour s'adapter à différents sujets tout en conservant une structure classique de présentation. En me fournissant des informations",334,"[-0.00679766  0.00724099 -0.00027085 ... -0.02433795 -0.02193499
+ -0.02081704]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+  {Accroche, Présentation du sujet, Annonce du plan},
+Corps
+  {Partie 1 
+    {Point 1, Point 2, Point 3},
+  Partie 2  
+    {Point A, Point B, Point C},
+  Partie 3
+    {Point X, Point Y, Point Z}
+ },
+Conclusion 
+  {Résumé, Conclusion}
+}
+
+L'introduction présente d'abord une accroche pour capter l'attention, puis le sujet est présenté et enfin le plan est annoncé. 
+
+Le corps est structuré en différentes parties, chacune développant des points spécifiques. 
+
+Enfin, la conclusion résume les idées principales et apporte une conclusion finale.
+
+Cette structure peut être réutilisée en adaptant les parties et les points selon le thème, le ton et les informations du nouveau talk. Les grandes sections Introduction, Corps, Conclusion restent les mêmes, ce sont les sous-parties qui changent.",298,"[-0.00288688  0.01142683  0.01049312 ... -0.02538166 -0.02234551
+ -0.0251911 ]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{accroche, présentation du speaker, annonce du sujet},
+
+Corps
+{point 1 sur le sujet, 
+point 2 sur le sujet,
+point 3 sur le sujet,
+anecdote illustrant le propos},
+
+Conclusion
+{résumé, leçon principale, remerciements}
+}
+
+L'introduction présente l'accroche pour capter l'attention, introduit le speaker et annonce le sujet traité. 
+
+Le corps développe le sujet en plusieurs points clés. Une anecdote vient illustrer le propos. 
+
+La conclusion résume les idées principales, souligne la leçon à retenir et remercie le public.
+
+Cette structure pourrait être réutilisée pour un autre talk en adaptant le contenu des accolades selon le thème, le ton et les informations du nouveau talk, tout en conservant la structure d'introduction, de corps et de conclusion.",270,"[-0.00694296  0.00877549  0.01298902 ... -0.03009478 -0.0216032
+ -0.02641682]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction
+   {Accroche, Présentation du sujet, Annonce du plan},
+Développement
+   {Partie 1 
+      {Idée 1, Exemple 1.1, Exemple 1.2},
+   Partie 2
+      {Idée 2, Exemple 2.1, Exemple 2.2, Exemple 2.3}
+   Partie 3 
+      {Idée 3, Exemple 3.1, Exemple 3.2}
+   },
+Conclusion 
+   {Rappel des idées principales, Conclusion}
+}
+
+L'introduction présente le sujet et l'annonce du plan. 
+
+Le développement se décompose en plusieurs parties, chacune développant une idée appuyée par des exemples concrets.
+
+La conclusion résume les idées principales et apporte une conclusion.
+
+Cette structure pourrait être réutilisée pour écrire un nouveau talk en remplaçant le contenu des accolades par un nouveau thème, de nouvelles idées et de nouveaux exemples, tout en conservant la structure d'introduction, de développement en plusieurs parties et de conclusion.",350,"[-0.00164014  0.00989514  0.01488423 ... -0.02718767 -0.02772427
+ -0.02874636]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction
+    {Présenter le sujet principal},
+    {Expliquer l'opinion généralement acceptée sur le sujet},
+    {Annoncer que l'on va contester cette opinion}
+}
+
+{Corps
+    {Argument 1 contre l'opinion générale
+        {Donner des exemples concrets}
+    },
+    {Argument 2
+        {Donner des exemples concrets} 
+    },
+    {Argument 3
+        {Donner des exemples concrets}
+    }
+}
+
+{Conclusion  
+    {Résumer les arguments présentés},
+    {Expliquer en quoi ces arguments remettent en cause l'opinion générale}, 
+    {Conclure sur les implications et conséquences de ces arguments}
+}
+
+Cette structure suit un schéma classique : introduction du sujet et de la thèse, développement des arguments avec exemples, et conclusion résumant la démonstration. Elle pourrait être réutilisée pour d'autres talks en adaptant les arguments et exemples selon le thème, le ton et les sources d'information.",354,"[-0.00170866  0.01159585  0.00782656 ... -0.02598188 -0.02529073
+ -0.02069591]",0
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+{présentation personnelle, contexte historique},
+
+Corps
+{expérience personnelle, 
+découverte du sujet,
+hypothèses et recherche,
+perspectives futures},
+
+Conclusion
+{idées ambitieuses,
+remerciements}
+}
+
+L'introduction présente l'orateur et donne le contexte historique lié au sujet.
+
+Le corps développe l'expérience personnelle de l'orateur, comment il a découvert le sujet qui le passionne, ses hypothèses et recherches en cours, ainsi que ses perspectives sur l'avenir dans ce domaine.
+
+La conclusion résume ses idées ambitieuses et remerciements.
+
+Ce modèle générique pourrait être réutilisé en adaptant les informations fournies (thème, ton, source) pour écrire un nouveau talk selon une structure similaire.",277,"[-0.00395633  0.00576817  0.00567128 ... -0.02472626 -0.01952006
+ -0.02307268]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+  {Accroche du public, Présentation du sujet, Présentation de la structure du talk},
+Corps
+  {Pourquoi le sujet est important,
+   Appel à l'action,
+   Faisabilité du sujet,
+   Origine des idées reçues/fatalisme,
+   Comment surmonter le fatalisme en 2 étapes
+     {Première étape : gains modestes,
+      Deuxième étape : gains radical}},
+Conclusion 
+  {Réponses aux objections,
+   Appel à l'action,
+   Projections positives}}
+
+Cette structure tente de capturer les différentes parties du talk et leurs enchaînements logiques. L'introduction plante le décor et présente le sujet. Le corps développe l'importance du sujet, la nécessité d'agir, sa faisabilité, les obstacles psychologiques et comment les surmonter progressivement. La conclusion répond aux critiques, relance l'appel à l'action et finit sur une note d'espoir.
+
+Les accolades permettent de structurer les différents niveaux et d'éventuellement aller plus en détails si nécessaire. Cette",353,"[ 0.00133059  0.00709429  0.00371213 ... -0.02527547 -0.02452315
+ -0.03220478]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+{Contexte personnel, Question principale},
+Corps
+{Hypothèse/Perspective, 
+Preuves/Arguments,
+Exemples concrets},
+Conclusion
+{Résumé, Leçons apprises}}
+
+L'introduction présente le contexte personnel de l'orateur (son expérience au Bangladesh et à New York) ainsi que la question principale (pourquoi la pauvreté existe-t-elle?). 
+
+Le corps développe l'hypothèse ou la perspective de l'orateur sur cette question (l'aide internationale a échoué car elle n'implique pas les citoyens), appuyée par des preuves et arguments. Des exemples concrets sont donnés, comme le projet de téléphonie mobile au Bangladesh.
+
+Enfin, la conclusion résume les points clés et les leçons apprises de cette expérience.
+
+Cette structure peut être réutilisée pour d'autres talks en adaptant le contenu aux informations fournies (thème, ton, sources), tout en conservant l'enchaînement logique introduction-corps-conclusion.",323,"[ 0.00530745  0.01657402  0.01556246 ... -0.02047761 -0.02165776
+ -0.02923149]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction
+    {Anecdote personnelle},
+    {Présentation du contexte et de la problématique}
+},
+
+{Corps
+    {Présentation de la solution proposée},
+    {Exemples concrets de mise en œuvre de la solution},
+    {Témoignages} 
+},
+
+{Conclusion 
+    {Rappel de la problématique},
+    {Rappel de la solution proposée},
+    {Appel à l'action}
+}
+
+L'introduction commence par une anecdote personnelle accrocheuse qui introduit le sujet, puis présente le contexte et la problématique traités. 
+
+Le corps développe la solution proposée, l'illustre par des exemples concrets de mise en œuvre, et s'appuie sur des témoignages.
+
+La conclusion rappelle la problématique, la solution proposée, et lance un appel à l'action.
+
+Cette structure peut être réutilisée en adaptant les éléments clés (anecdote, contexte, problématique, solution, exemples, témoignages, appel à l'action) au nou",340,"[-0.00014814  0.01173002  0.01509996 ... -0.02644114 -0.0190791
+ -0.03250705]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+   {Accroche visuelle, 
+    Statistiques choc,
+    Présentation du problème},
+
+Corps
+   {Anecdote personnelle,
+    Explication de la solution envisagée, 
+    Difficultés rencontrées,
+    Résultats obtenus},
+
+Conclusion
+   {Limites de la solution,
+    Nouvelle idée proposée,
+    Projection vers l'avenir}
+}
+
+L'introduction comprend une accroche visuelle (la vidéo), des statistiques choc pour captiver l'audience, et une présentation du problème.
+
+Le corps raconte une anecdote personnelle, explique la solution envisagée initialement, les difficultés rencontrées dans sa mise en place, et enfin les résultats obtenus. 
+
+La conclusion souligne les limites de la solution actuelle, propose une nouvelle idée pour aller plus loin, et extrapole cette idée vers l'avenir.
+
+Cette structure pourrait être réutilisée pour d'autres talks en adaptant le contenu des différentes parties aux informations fournies sur le thème, le ton souhaité et les sources d'information disponibles. Les gran",355,"[-0.00090654  0.00696671  0.01579299 ... -0.03381746 -0.0253166
+ -0.02919512]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction
+  {Présentation du thème et du contexte},
+  {Definition des concepts clés}, 
+  {Annonce du plan}
+},
+
+{Corps
+  {Point 1 - Problème à adresser},
+  {Point 2 - Solutions envisagées},
+  {Point 3 - Appel à l'action} 
+},
+
+{Conclusion 
+  {Résumé des points clés},
+  {Projection dans le futur},
+  {Message d'espoir}
+}
+
+L'introduction présente le thème général et le contexte, définit les concepts importants qui seront abordés, et annonce le plan qui sera suivi. 
+
+Le corps développe les idées principales : le problème identifié, les solutions possibles, et un appel à l'action pour le public.
+
+La conclusion résume les points clés, se projette dans l'avenir en lien avec le thème, et finit sur un message d'espoir.
+
+Cette structure générique peut être adaptée à différents thèmes et différents tons en fonction des informations fournies. Les points clés du corps peuvent être développés plus en détails. Mais le sé",353,"[-0.00551907  0.00182556  0.00399016 ... -0.02052454 -0.02965236
+ -0.02748776]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{Accroche pour capter l'attention, Annonce du problème},
+Corps
+{Explication du problème, Illustration avec des exemples historiques, Projection dans le futur},
+Conclusion
+{Résumé du problème, Appel à l'action vers les entrepreneurs}
+}
+
+L'introduction comporte une accroche forte pour capter l'attention de l'auditoire (par exemple une phrase choc) ainsi que l'annonce du problème qui va être abordé. 
+
+Le corps développe ce problème, l'explique plus en détails et l'illustre à l'aide d'exemples historiques marquants. Il projette également dans le futur en imaginant des scénarios et des évolutions possibles. 
+
+Enfin, la conclusion résume le problème, fait la synthèse et lance un appel à l'action vers un public cible (ici les entrepreneurs).
+
+Cette structure générique pourrait être réutilisée en adaptant le contenu pour un autre thème ou public cible, tout en gardant le même enchaînement logique et la même dynamique. Les informations sur le ton plus positif ou",352,"[-0.00826672  0.00728072 -0.00191323 ... -0.01363421 -0.0211696
+ -0.02012483]",1
+" Voici la structure sémantique générique que j'ai identifiée dans le texte :
+
+{Introduction 
+  {Présentation de l'orateur et du sujet,
+   Explication de la problématique},
+
+Corps
+  {Récit de la première expédition et de son échec,
+   Préparation de la deuxième expédition,
+   Déroulement de la deuxième expédition,
+   Utilisation des technologies,
+   Arrivée au Pôle Nord,
+   Poursuite de l'expédition et évacuation},
+
+Conclusion
+  {Bilan personnel de l'expérience,
+   Message d'inspiration pour le public}
+}
+
+Cette structure pourrait être réutilisée pour écrire un nouveau talk en remplaçant les points par de nouvelles informations sur un autre sujet, tout en conservant la même structure narrative introduction - corps - conclusion. Les différentes parties du corps pourraient être adaptées au contenu spécifique du nouveau talk.",293,"[-0.00750965  0.01142716  0.01053563 ... -0.02013418 -0.02233371
+ -0.02871105]",2
+" Voici une proposition de structure sémantique générique pour ce TED Talk:
+
+{Introduction 
+{Accroche humoristique, Remerciements, Présentation du sujet},
+
+Corps
+{Problématique actuelle, 
+Expérience personnelle,
+Appel à l'action collective},
+
+Conclusion
+{Résumé, Vœux}}
+
+Cette structure inclut :
+- Une introduction avec une accroche humoristique, des remerciements et une présentation du sujet
+- Un corps structuré en 3 parties : la problématique actuelle, une expérience personnelle en lien avec le sujet, et un appel à l'action collective 
+- Une conclusion avec un résumé et des vœux/objectifs
+
+Elle pourrait être réutilisée pour écrire un nouveau talk en adaptant le contenu à un autre thème, tout en conservant cette structure en 3 parties. Les informations sur le thème, le ton souhaité et les sources pourraient être intégrées dans chaque partie en suivant ce modèle.",293,"[-0.00668169  0.00504339  0.00841636 ... -0.02099592 -0.01203989
+ -0.02646977]",1
+" Voici une structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+{Présentation du sujet, Présentation de l'orateur},
+
+Corps
+{Explication de l'intérêt pour le sujet, 
+Expériences personnelles en lien avec le sujet,
+Description du projet photographique,
+Présentation des photos et leur signification,
+Appel à la prise de conscience écologique
+},
+
+Conclusion
+{Présentation des 3 vœux TED,
+Explications détaillées de chaque vœu,
+Appel à l'action pour concrétiser ces vœux
+}
+}
+
+Cette structure permet de présenter le sujet, de développer une réflexion à travers des exemples concrets et un appel à l'action, pour finir sur des propositions pour agir. Elle peut être réutilisée pour d'autres talks en adaptant le contenu des différentes parties selon le thème, le ton et les informations du nouveau talk.",273,"[-0.00467179  0.00131839  0.00782299 ... -0.02018835 -0.02924723
+ -0.03962611]",1
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+  {Présentation de l'orateur et de son expertise},
+  {Annonce du plan en 3 parties}
+},
+
+{Corps
+  {Partie 1 
+    {Présentation de l'invention 1},
+    {Explications techniques},
+    {Démonstration}
+  },
+  {Partie 2
+    {Présentation de l'invention 2},
+    {Explications techniques},
+    {Démonstration}
+  },
+  {Partie 3 
+    {Présentation de l'invention 3},
+    {Explications techniques},
+    {Démonstration}
+  }
+},
+
+{Conclusion 
+  {Résumé des 3 inventions},
+  {Présentation des 3 voeux}, 
+  {Appel à l'action pour les voeux}
+}
+
+Cette structure permet de présenter le plan en 3 parties annoncé en introduction, de développer chaque partie avec les détails techniques et les démonstrations, et de conclure en résumant les points clés et en lançant un appel à l'action. Elle est assez générique pour être réutilisée sur d'autres talks en suivant le même modèle en 3 parties.",354,"[-0.00477278  0.01207214  0.00515306 ... -0.02019973 -0.02166927
+ -0.01736378]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk : 
+
+{Introduction
+  {Accroche humoristique sur les statisticiens},
+  {Annonce du sujet : parler de statistiques de façon passionnante}
+}
+
+{Corps
+  {Exemple ludique sur la probabilité avec pile ou face}, 
+  {Lien avec la génétique, domaine de prédilection de l'orateur},
+  {Exemple de test médical qui montre l'importance du contexte},
+  {Exemple judiciaire dramatique d'erreur statistique}
+}
+
+{Conclusion 
+  {Les gens font souvent des erreurs en statistiques},
+  {Importance d'être conscient de nos limites avec l'incertitude},
+  {Conséquences graves possibles dans le système judiciaire}
+}
+
+Cette structure permet de présenter le sujet principal (les statistiques) de façon attrayante via des exemples concrets, des anecdotes personnelles et des cas judiciaires, le tout encadré par une introduction humoristique et accrocheuse et une conclusion morale. Elle pourrait être réutilisée pour un autre talk en adaptant les exemples et anecdotes au nouveau sujet, tout en conservant",340,"[ 0.0005118   0.00967771  0.02021739 ... -0.02421385 -0.02165403
+ -0.03531514]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+  {Présentation de l'orateur et de son domaine d'expertise},
+  {Présentation du sujet et de la thèse défendue}
+},
+
+{Corps
+  {Exemples concrets illustrant la thèse}, 
+  {Explications et analyses détaillées étayant la thèse},
+  {Transition vers la conclusion}
+},
+
+{Conclusion
+  {Rappel de la thèse principale},
+  {Exemple positif en lien avec la thèse}, 
+  {Ouverture et perspectives}
+}
+
+L'introduction présente l'orateur et donne le sujet et la problématique du talk. 
+
+Le corps développe la thèse à travers des exemples concrets, des analyses et explications détaillées. Il annonce la transition vers la conclusion.
+
+La conclusion résume la thèse principale, donne un exemple positif et ouvre des perspectives.
+
+Cette structure peut être réutilisée en adaptant le contenu pour un nouveau thème, tout en conservant l'enchaînement logique et la progression rhétorique. Les sections et sous-sections peuvent être développées diffé",345,"[-0.00143458  0.01165813  0.00765976 ... -0.03597884 -0.02321257
+ -0.02513075]",1
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{salutations, présentation du sujet principal, annonce du plan},
+
+Corps
+{point 1 sur les promesses et les dangers de la technologie, 
+point 2 sur le potentiel des nanotechnologies pour résoudre des problèmes énergétiques et médicaux,
+point 3 sur les modèles exponentiels de croissance technologique avec exemples et preuves, 
+point 4 sur les progrès dans la compréhension du cerveau humain,
+point 5 sur la fusion homme-machine et l'extension des capacités humaines},
+
+Conclusion 
+{résumé sur le pouvoir exponentiel de la technologie, mise en garde sur les usages positifs ou négatifs, remerciements}
+}
+
+Avec cette structure générique, si on me fournit un nouveau thème, ton et sources d'informations, je pense pouvoir réutiliser ce schéma pour écrire un nouveau talk en remplaçant le contenu des points tout en conservant la structure.",303,"[ 0.00093406 -0.00634964  0.00490548 ... -0.02440487 -0.02027114
+ -0.01226868]",0
+" Voici une proposition de structure sémantique générique pour ce TED talk :
+
+{Introduction 
+{poser la question principale, donner le contexte personnel},
+
+Corps
+{présenter différentes définitions ou approches du sujet,
+analyser les tendances et les directions du sujet,
+faire des liens avec d'autres domaines pertinents,
+soulever des questions et objections possibles},
+
+Conclusion
+{répondre à la question principale, 
+donner une vision positive pour l'avenir,
+appel à agir}
+}
+
+Cette structure pourrait être réutilisée pour écrire un nouveau talk en remplaçant les éléments spécifiques par de nouvelles informations sur un autre sujet, tout en suivant la même progression logique d'introduction, développement et conclusion. Les sections du corps peuvent être adaptées et étoffées en fonction du sujet et des informations disponibles. Le ton et la source des informations influenceront aussi le contenu, mais cette structure générique fournit un canevas solide pour un exposé convaincant.",307,"[-0.00034093  0.00864535  0.00890342 ... -0.02006496 -0.02113595
+ -0.01744554]",0
+" Voici une proposition de structure sémantique générique pour ce TED Talk :
+
+{Introduction 
+- Présentation du sujet personnel {expérience personnelle liée au sujet}
+- Explication de la motivation {raisons d'agir sur ce sujet}
+},
+{Corps
+- Présentation de l'organisation {nom, mission, actions}
+- Témoignages {vidéos montrant le travail de l'organisation} 
+- Appel à l'action {ce que chacun peut faire pour aider}
+},
+{Conclusion
+- Projection dans l'avenir {comment la technologie peut changer la donne}
+- Message d'espoir {la situation peut s'améliorer}
+}
+
+Cette structure pourrait être réutilisée pour d'autres talks en remplaçant les éléments entre accolades par les informations spécifiques au nouveau sujet. Le ton personnel et les témoignages vidéo semblent importants dans ce format.",262,"[-0.0131171   0.00077017  0.00862848 ... -0.02759047 -0.01946575
+ -0.02981217]",1
+" Voici une proposition de structure sémantique générique pour le TED talk :
+
+{Introduction 
+{accroche narrative personnelle, question de départ},
+Corps
+{présentation de la démarche d'enquête, 
+énumération des idées clés sous forme de conseils concrets},
+Conclusion  
+{réponse à la question de départ, invitation à l'action}
+}
+
+Cette structure permet de présenter :
+- Une introduction avec une anecdote personnelle et la question qui a motivé la recherche
+- Un corps organisé autour des idées clés identifiées lors de l'enquête, formulées sous forme de conseils actionnables 
+- Une conclusion qui répond à la question initiale et appelle à l'action
+
+Elle pourrait être réutilisée pour écrire un nouveau talk en adaptant l'anecdote initiale, la question de recherche, les idées clés et les conseils en fonction d'un autre thème, ton et source d'information.",279,"[-0.00551926  0.01311066  0.00551281 ... -0.01772619 -0.02451714
+ -0.0296168 ]",1

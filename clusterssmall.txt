@@ -1,0 +1,69 @@
+Cluster 0 Theme: {Introduction 
+  {Présentation personnelle/expertise, Accroche, Contexte et objectives, Annonce du plan}
+},
+
+{Corps
+  {Partie 1 
+    {Présentation du point 1/technologie/invention, Explications techniques, Démonstration},
+  },
+  {Partie 2
+    {Présentation du point 2/technologie/invention, Explications techniques, Démonstration}
+  },
+  {Partie 3
+    {Présentation du point 3/technologie/invention, Explications techniques, Démonstration}
+  }
+},
+
+{Conclusion
+  {Résumé des points principaux/inventions, Ouverture, Appel à l'action, Message final}
+}
+Une structure sémantique générique pour un TED talk inclut une introduction (avec une accroche, une présentation du sujet et du contexte), un corps divisé en plusieurs parties (chacune avec des points ou des exemples), et une conclusion (avec résumé, message final et ouverture). Le niveau de détail peut être adapté selon les besoins.
+Une structure générique pour un TED Talk : Introduction (Accroche, Présentation du sujet, Contexte) ; Corps comprenant différentes parties, chacune avec plusieurs points ou exemples ; Conclusion (Résumé, Message final, Ouverture). Un exemple concret de structure serait : Introduction (Présentation personnelle, Objectifs du talk, Plan) ; Corps (Présentation de la technologie, Démonstration, Applications, Perspectives) ; Conclusion (Résumé, Ouverture).
+Ces propositions décrivent des structures sémantiques pour un TED Talk. La structure comprend une introduction, un corps organisé en plusieurs parties, et une conclusion. L'introduction introduit le sujet et le plan du talk. Le corps examine en détail plusieurs aspects ou points du sujet. La conclusion résume les points principaux et fournit une ouverture. Cette structure peut être ajustée selon les besoins de chaque talk, mais fournit un cadre général pour créer un talk cohérent et engageant.
+Chaque TED talk nécessite une structure bien organisée pour guider à la fois l'orateur et le public. Une structure sémantique typique pour un TED talk pourrait inclure une introduction avec une accroche, une présentation du sujet et du contexte, un corps avec différents points ou exemples, et une conclusion qui résume les idées majeures. Ce type de structure peut être adaptée selon les besoins spécifiques de l'orateur et du sujet, mais doit toujours rester logique et cohérente pour assurer une bonne compréhension par le public.
+Plusieurs structures génériques pour les TED Talks ont été offertes, chacune abordant le discours avec une perspective légèrement différente. Le plus souvent, ils se composent d'une introduction qui définit le contexte, suivi d'un corps organisé en sections qui développent le message principal avec des arguments et des exemples, et se terminent par une conclusion qui résume le contenu et propose de nouvelles avenues. Ces structures peuvent être réutilisées pour de nouveaux discours en adaptant les éléments de contenu tout en conservant la progression logique et systématique du discours.
+Cluster 1 Theme: {Introduction 
+{Accroche captivante, Introduction du sujet suivant le contexte proposé, Annonce du plan},
+
+Corps
+{Anecdote ou expérience personnelle,
+Exploration de la problématique à travers des points clés enrichis par des exemples concrets ou historiques,
+Appel à l'engagement ou à l'action },
+
+Conclusion
+{Résumé du problème et des points clés, 
+Message de conclusion inspirant ou espoir,
+Remerciements}
+}
+
+Cette structure générique propose une introduction captivante du sujet à explorer, suivie d'une découverte détaillée du thème dans le corps du discours, tout en maintenant l'attention de l'audience avec des histoires personnelles ou des exemples notables. Un appel à l'action ou à l'engagement est fait pour susciter une réaction de la part de l'audience. Enfin, le discours se termine par un résumé précis des points discutés et un message finalement inspirant, tout en exprimant la gratitude envers l'audience pour leur temps et leur attention. Adaptée à différents contextes et sujets, cette structure pourrait servir de modèle pour de futurs talks. Les modifications pourraient inclure le choix des anecdotes, des exemples, et du ton de l'appel à l'action.
+Cette structure générique pour un TED talk commence par une introduction humoristique pour accrocher le public, annonce ensuite le sujet principal (ici, les statistiques) et présente divers exemples et anecdotes pour rendre le sujet attractif et compréhensible. La conclusion souligne les erreurs courantes et les conséquences possibles dues à une mauvaise compréhension du sujet. Cette structure pourrait être adaptée pour d'autres sujets en changeant les exemples et anecdotes.
+Cette structure sémantique générique pour un TED Talk comprend une introduction avec une accroche et annonce du sujet principal, un corps avec des exemples concrets et des projections futuristes, et une conclusion avec un résumé du problème et un appel à l'action. Elle peut être adaptée à différents thèmes ou publics cibles.
+Chaque TED Talk peut être structuré selon une formule générique incluant une introduction (avec une accroche et l'annonce du sujet), un corps (avec des points clés, des anecdotes et des exemples concrets) et une conclusion (avec un résumé du sujet, une ouverture et des remerciements). Cette formule peut être adaptée en fonction de différents thèmes et tons, tout en préservant une structure logique et cohérente.
+Chaque proposition de structure sémantique générique pour un TED talk suit une trame similaire : 
+- Une introduction qui pose le contexte et attire l'attention de l'audience,
+- Un corps de présentation qui expose le sujet via des anecdotes, des exemples concrets ou des témoignages,
+- Et une conclusion qui résume et ouvre la discussion. Cette structure pourrait être réutilisée pour d'autres talks en adaptant le contenu, les exemples, ou l'audience cible au thème spécifique du talk.
+Une structure de discours TED générique pourrait être : 
+
+1) Introduction : Accroche humoristique ou captivante, annonce du sujet.
+2) Corps : Explication ou illustration du problème grâce à des exemples variés, y compris des anecdotes personnelles.
+3) Conclusion : Résumé du problème, appel à l'action ou projection vers le futur.
+
+Cette structure peut être réutilisée avec différents thèmes, en adaptant le contenu au sujet traité. La progression narrative en trois parties (Introduction, Corps, Conclusion) reste la même, assurant la cohérence du discours.
+Cluster 2 Theme: {Introduction
+{Présentation de l'orateur, Présentation du sujet, Contexte de l'histoire, Explication de la problématique},
+
+Corps
+{Anecdote/Récit d'une expérience, 
+Préparation pour le prochain évènement,
+Nouvelle anecdote/Récit d'une autre expérience,
+Utilisation des technologies/outils pertinents, 
+Point culminant de l'histoire/expérience},
+
+Conclusion
+{Réflexion sur l'expérience, Bilan personnel, Mise en perspective, Message d'inspiration pour le public}} 
+
+Cette structure moyenne conserve l'organisation logique introduction - corps - conclusion. Elle peut être adaptée à une grande variété de sujets en remplaçant les éléments spécifiques par de nouvelles informations. Elle permet aussi d'inclure à la fois des aspects personnels et techniques du sujet traité.
+Ce texte est structuré en trois parties : une introduction où l'orateur se présente et explique le contexte de son histoire, un corps composé de trois anecdotes centrées autour de ses expériences de croyance et une conclusion où il réfléchit sur ses croyances et met les choses en perspective. Cette structure pourrait servir de guide pour rédiger un nouveau texte en remplaçant les anecdotes et réflexions spécifiques par de nouveaux éléments.
+La structure sémantique générique d'un texte peut être utilisée comme un plan pour écrire un nouveau texte, en remplaçant les informations spécifiques du texte original par de nouvelles informations. Ces structures comprennent généralement une introduction, un corpus de plusieurs parties ou anecdotes, et une conclusion.

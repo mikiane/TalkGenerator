@@ -1,0 +1,827 @@
+Cluster 0 Theme: Introduction
+   - Accroche
+   - Présentation du sujet
+   - Contexte / présentation de la problématique
+   - Annonce du plan / objectif du talk
+
+Corps du Talk
+   - Présentation de l'idée / thèse centrale ou  problème principal
+       - Explication / développement 
+       - Exemples ou données pour appuyer
+   - Approfondissement ou nuances / sous-points
+       - Explication / développement
+       - Exemples ou données pour appuyer
+   - Solutions / Applications / Implications
+       - Explication / développement
+       - Exemples ou données pour appuyer
+   - Synthèse/résumé des points clés
+
+Conclusion
+   - Résumé de l'argumentation / des points clés
+   - Rappel de la thèse / idée centrale
+   - Perspectives / ouverture sur d'autres possibilités
+   - Appel à l'action ou à la réflexion
+   - Remerciements / message final
+La structure générique d'un TED Talk comprend une introduction avec une accroche, présentation du sujet et annonce du plan. Le corps du talk développe ensuite trois points principaux : le contexte historique avec des éléments spécifiques, l'évolution technologique avec des avancées remarquables, et l'impact culturel avec des changements notables. Enfin, le talk se conclut par une synthèse, une ouverture et un message final. Cette structure peut être adaptée à de nombreux sujets tout en fournissant un cadre de présentation.
+La structure d'un TED Talk est généralement divisée en trois parties majeures : l'introduction (qui comprend une accroche, la présentation du sujet et l'annonce du plan), le corps du discours (qui expose des points clés concernant le sujet, généralement subdivisés en sous-points) et la conclusion (qui synthétise le sujet, offre une ouverture et délivre un message final). C'est un modèle efficace et adaptable pour présenter différentes sortes de sujets et d'informations.
+La structure générique d'un talk TED comprend typiquement une introduction où le sujet est présenté et le plan annoncé, un corps où l'idée principale est développée avec des exemples et argumentations, et une conclusion qui résume le sujet et propose une ouverture pour réflexion ou action.
+De nombreux TED Talks suivent une structure similaire qui commence par une introduction comprenant une accroche et la présentation du sujet. Ensuite, le corps du discours approfondit le sujet à travers plusieurs points clés, qui peuvent comprendre le contexte historique, l'évolution technologique, différentes preuves ou solutions au problème. Enfin, la conclusion résume les points importants, offre une perspective et peut inclure un appel à l'action ou un message final.
+Il y a cinq structures sémantiques génériques de TED Talks, mais toutes suivent un format similaire : une introduction (avec une accroche, une présentation du sujet, une annonce du plan), un corps de talk (avec différents points, des preuves ou des exemples), et une conclusion (synthèse, ouverture et/ou appel à l'action).
+Tous ces modèles présentent une structure de TED Talk générique comprenant une introduction, un corps de présentation et une conclusion. L'introduction contient généralement une accroche, une présentation du sujet et l'annonce du plan. Le corps du discours développe le sujet avec des points principaux subdivisés en sous-points, des exemples, des preuves pour soutenir la thèse ou présenter les résultats de recherche. La conclusion résume les points clés, donne des perspectives sur de futures recherches ou propose un appel à l'action.
+Voici quelques trames possibles :
+1. Contexte historique> Évolution technologique> Impact culturel.
+2. Thèse> Preuves et explications> Implications.
+3. Idée centrale> Développement> Exemples.
+4. Problème> Solution proposée> Illustration par des exemples. 
+5. Plusieurs points centraux avec explication, exemples et impacts.
+6. Problématique> Méthodologie de recherche> Résultats> Implications.
+Il existe plusieurs structures sémantiques génériques pour un TED talk. Ces structures comprennent généralement une introduction, où le sujet est présenté et le plan annoncé ; un corps, qui pourrait être structuré autour du contexte historique, de l'évolution technologique ou de l'impact culturel, des preuves ou arguments pour soutenir une thèse, ou des points centraux avec explications, exemples et impacts ; et une conclusion, qui synthétise les idées principales, propose des perspectives et donne un message final. Dans tous les cas, la structure est flexible et devrait être adaptée au sujet spécifique du talk.
+Chaque TED Talk suit une structure sémantique générique qui peut varier en fonction du sujet. Cependant, généralement, il se divise en une introduction (accroche, présentation du sujet, plan), corps du talk (divisé en points principaux, qui peuvent être des points contextuels, des avancées technologiques, soutenus par diverses preuves ou exemples), et une conclusion (synthèse, ouverture et message final). Cette structure varie parfois, et peut inclure d'autres éléments tels que des anecdotes personnelles, un contexte historique, ou des appels à l'action.
+Voici la structure sémantique générique de TED Talks :
+
+Introduction
+    - Accroche
+    - Présentation du sujet
+    - Annonce du plan de la discussion
+
+Corps du Talk  
+    - Points principaux liés au sujet avec détails, citations, exemples et explications
+    - Transition de point en point avec synthèse/résumés
+
+Conclusion
+    - Répétition de points clés 
+    - Perspective ou appel à l'action
+    - Remerciements et fin de la discussion
+La structure sémantique générique d'un TED Talk est généralement divisée en trois parties : introduction, corps du talk et conclusion. L'introduction comprend généralement une accroche, la présentation du sujet et l'annonce du plan. Le corps du talk présente le développement du sujet à travers plusieurs points principaux, chacun comportant des explications, des exemples ou des preuves. Enfin, la conclusion résume les points clés, propose des perspectives futures ou un appel à l'action, et conclut le talk. Cette structure peut varier en fonction du sujet et de l'orateur, mais elle reste généralement fidèle à ce format.
+Cluster 1 Theme: Introduction
+    - Accroche 
+    - Présentation du sujet
+    - Annonce de la problématique
+
+Corps du Talk  
+    - Présentation de la situation actuelle/le contexte (Point 1)
+        - Elément de contexte / Constat 1 
+        - Illustration 1
+    - Analyse critique du problème (Point 2)
+        - Elément de contexte / Constat 2  
+        - Illustration 2
+    - Proposition de solution (Point 3)
+        - Elément de contexte / Constat 3  
+        - Illustration 3
+
+Conclusion
+    - Synthèse des points clés
+    - Projection sur l'avenir / Ouverture 
+    - Message à retenir
+
+Cette structure est une moyenne de celles précédemment citées. Elle présente une problématique, analyse son contexte à travers différents éléments et illustrations, propose une solution et conclut en ouvrant sur des perspectives. Les sous-points peuvent être adaptés en fonction du sujet du talk.
+Une structure typique pour un TED Talk pourrait comprendre une introduction avec une accroche, une présentation du sujet et une problématique, suivie par le corps avec trois éléments de contexte et leurs illustrations respectives, et conclue par une synthèse, une solution et une ouverture à la fin.
+Deux propositions de structures génériques pour un TED Talk : 
+
+1) Introduction (accroche, présentation du sujet, problématique), corps du Talk (3 éléments de contexte avec leurs illustrations), conclusion (synthèse, solution, ouverture).
+
+2) Introduction (accroche, contexte/sujet, annonce du plan), corps du Talk (5 points : problème/situation initiale, élément déclencheur, solution proposée, mise en œuvre/résultats, perspectives), conclusion (résumé des points clés, ouverture/élargissement, message à retenir). Ces structures sont adaptées à divers sujets et offrent un bon cadre pour construire un discours cohérent et impactant.
+Voici trois propositions de structure générique pour un TED Talk :
+
+Proposition 1 :
+Introduction (Accroche, Présentation du sujet, Problématique)
+Corps du Talk (Trois éléments de contexte chacun suivi d'une illustration)
+Conclusion (Synthèse, Solution, Ouverture)
+
+Proposition 2 :
+Introduction (Accroche, Présentation du contexte/sujet, Annonce du plan)
+Corps du Talk (Problème/situation initiale, Élément déclencheur/prise de conscience, Solution proposée, Mise en oeuvre et résultats, Perspectives)
+Conclusion (Résumé des points clés, Ouverture/élargissement, message à retenir)
+
+Proposition 3 :
+Introduction (Accroche, Présentation du sujet, Annonce du plan)
+Corps du Talk (Circonvenir les éléments de contextes, les problématiques, les solutions envisagées et mises en perspective)
+Conclusion (Résumé des points clés, Ouverture sur des perspectives futures, Conclusion percutante)  
+
+Chaque structure permet de présenter de manière claire et structurée un sujet, avec une variété de points à détailler et une conclusion pertinente.
+Ces différentes propositions de structure générique pour un TED Talk présentent une introduction (accroche, présentation du sujet, problématique), un corps du talk (divisé en plusieurs points pour expliquer le contexte, analyser le problème, proposer des solutions, etc.), et une conclusion (synthèse, ouverture, message à retenir). Ces structures sont flexibles et peuvent être adaptées à différents thèmes et tons en insérant les contenus adéquats.
+Ces propositions de structures génériques pour un TED Talk comprennent toutes une introduction où le sujet est présenté, un corps du discours avec divers points clés et une conclusion qui résume le sujet et propose une ouverture sur des idées futures. Les structures varient sur le nombre de points clés à discuter, et sur l'ordre et la façon dont ils sont abordés. Toutes offrent une flexibilité pour s'adapter a plusieurs sujets, et sont assez détaillées pour suivre une logique claire. L'objectif est de concevoir un talk cohérent qui présente la problématique, propose des solutions et finit sur un message d'ouverture.
+Ces différentes structures proposent une façon de structurer un TED Talk de manière générique. Elles comprennent toutes une introduction avec une accroche et la présentation du sujet, un corps de talk traitant les différentes facettes du sujet (contexte, problématique, solutions proposées, etc.) et une conclusion qui synthétise les points clés et propose des perspectives futures. Ces structures sont suffisamment flexibles pour s'adapter à différents sujets.
+Ces propositions de structures génériques pour un TED Talk se compose généralement d’une introduction, d’un corps (le talk lui-même) et d’une conclusion. Dans l’introduction, on trouve une accroche, une présentation du sujet et une problématique. Le corps varie en structure mais contient habituellement une présentation de la situation actuelle, une analyse critique des limites et une proposition de solutions. La conclusion offre une synthèse des points clés, une ouverture pour de futures discussions et un message à retenir. Chaque structure s’adapte aux différents sujets, thèmes en ton.
+Ces propositions de structures génériques pour un TED Talk comprennent une introduction, un corps de texte et une conclusion. L'introduction s'ouvre généralement sur une accroche avant de présenter le sujet et la problématique. Le corps du texte contient les explications détaillées du sujet et varie selon la structure, pouvant comprendre des points de problématiques et solutions, des illustrations, des analyses critiques, des exemples, des comparaisons de solutions, une présentation de résultats, une hypothèse ou théorie, et autres. La conclusion résume généralement les points clés et offre une perspective ou un message à retenir. Ces structures sont conçues pour être flexibles et adaptées à divers sujets.
+Voici plusieurs structures génériques proposées pour un TED talk :
+
+Structure 1 :
+- Introduction (Accroche, Présentation du sujet, Problématique)
+- Corps du Talk (Élément de contexte 1, Illustration, Élément de contexte 2, Illustration, Élément de contexte 3, Illustration)
+- Conclusion (Synthèse, Solution, Ouverture)
+
+Structure 2 :
+- Introduction (Accroche, Présentation du contexte, Annonce du plan)
+- Corps du Talk (Point 1 : Problématique, Point 2 : Élément déclencheur, Point 3 : Solution proposée, Point 4 : Mise en œuvre et résultats, Point 5 : Perspectives)
+- Conclusion (Résumé des points clés, Ouverture, Message à retenir)
+
+Structure 3 :
+- Introduction (Accroche, Présentation du sujet, Annonce du plan)
+- Corps du Talk (Point 1 : contexte et problématique (trois éléments), Point 2 : solutions envisagées (trois éléments), Point 3 : mise en perspective (trois éléments))
+- Conclusion (Résumé des points clés, Ouverture sur perspectives futures, Conclusion percutante)
+
+Ces structures permettent de présenter une problématique, d'en analyser les causes et d'apporter des éléments de solution de manière logique et précise. Elles peuvent être adaptées à différents sujets.
+Plusieurs structures de TED talk sont proposées. Chaque structure comprend des sections génériques telles que l'introduction, le corps du discours et la conclusion. Le thème, le ton et le contenu spécifique peuvent varier en fonction du sujet du discours, mais la structure globale reste la même, ce qui facilite la réutilisation de ces structures pour de futurs TED talks. Les éléments clés comprennent la présentation du sujet, l'analyse du problème, l'illustration avec des exemples concrets, la proposition de solutions et leur discussion, et enfin la conclusion et l'ouverture sur de nouvelles perspectives. Les sections du discours sont modulables pour s'adapter à des thèmes variés tout en conservant une trame structurée et logique pour le discours.
+Cluster 2 Theme: Introduction
+    - Accroche 
+    - Présentation du sujet
+    - Annonce du plan
+
+Corps du Talk
+    - Contexte et problématique
+    - Présentation et démonstration de la solution
+    - Illustration avec des exemples concrets 
+    - Explication des avantages et bénéfices
+    - Projection dans l'avenir et application possible 
+
+Conclusion
+    - Résumé des points clés
+    - Synthèse de la solution proposée
+    - Message à retenir
+    - Ouverture sur l'avenir 
+
+Cette structure moyenne générée est assez cohérente avec chacune des structures proposées. Elle permet de l'adapter à différents thèmes de manière logique et fluide. L'objectif est de capter l'attention lors de l'introduction, de développer son sujet de manière claire et illustrative lors du corps du talk, et de conclure en rappelant les points clés, la solution proposée ainsi que le message à retenir.
+Une proposition de structure pour un TED talk pourrait inclure une introduction avec une accroche, une présentation du sujet et une annonce du plan. Le corps du Talk pourrait contenir une explication du phénomène, une étude de cas, une démonstration, une section d'approfondissement et une mise en perspective. Enfin, la conclusion pourrait rappeler le sujet, synthétiser les points clés et ouvrir sur des perspectives futures. Cette structure flexible peut être ajustée pour différents sujets tout en conservant la même logique de présentation.
+Deux structures génériques pour un TED Talk ont été proposées. La première comprend une introduction au sujet, une explication détaillée basée sur une étude de cas, et une conclusion qui rassemble tout. La seconde structure propose un format basé sur la résolution de problème : identification du problème, analyse, hypothèse, et proposition de solution, suivie d'une conclusion. Les deux structures permettent une présentation claire et logique, qui peut être adaptée à différents sujets.
+Voici trois propositions de structure générique pour un TED Talk :
+    
+1. Introduction (accroche, présentation du sujet, annonce du plan), Corps du Talk (explication du phénomène, étude de cas, démonstration, approfondissement, mise en perspective) et Conclusion (rappel du sujet, synthèse, ouverture).
+2. Introduction (contexte, sujet central, intérêt personnel), Corps du Talk (exemple concret, analyse, problème, hypothèse, exploration, erreur, solution alternative) et Conclusion (résumé du problème, rappel de la solution, conclusion générale).
+3. Introduction (accroche personnelle, présentation du sujet, annonce du plan), Corps du Talk (contexte, témoignages, solution, témoignages, appel à l'action) et Conclusion (résumé, projection positive, remerciements).
+
+Chaque structure peut être adaptée en fonction du thème de la conférence.
+Trois structures génériques sont proposées pour un TED Talk. La première structure est divisée en une introduction accrocheuse, un corps de talk présentant le sujet en détail, et une conclusion résumant l'importance du sujet. La deuxième structure commence avec une introduction du sujet, propose un problème, investigue sur le problème, présente une solution alternative, et conclut avec l'importance de la nouvelle solution. La dernière structure offre une accroche personnelle, explique le sujet au public, présente les recherches, découvertes et solutions personnelles, et conclut avec un aperçu positif du futur. Ces structures peuvent êtres modifiées pour adapter à tout sujet.
+Introductions pour les TED Talks doivent inclure une accroche ou une anecdote personnelle, la présentation du sujet et l'annonce du plan. Le corps du discours doit approfondir le sujet, donner des exemples concrets, proposer des solutions et finalement faire un appel à l'action. Finalement, la conclusion doit résumer les points essentiels et projeter une vision positive de l'avenir. Cette structure peut être utilisée pour différents sujets en adaptant le contenu aux informations fournies.
+Voici six structures génériques pour un talk TED. Elles commencent généralement par une introduction comprenant une accroche, la présentation du sujet et l'annonce du plan. Le corps du talk comprend généralement une explication de la problématique, des exemples concrets, une présentation de solutions et une mise en perspective. Enfin, la conclusion résume les points clés, propose une synthèse et offre des perspectives futures. Ces structures peuvent être adaptées à n'importe quel sujet de talk TED.
+Voici plusieurs structures génériques pour un TED Talk :
+1. Introduction (Accroche, Présentation du sujet, Annonce du plan), Corps du Talk (Explication du phénomène étudié, Étude de cas, Démonstration pratique, Approfondissement, Mise en perspective), Conclusion (Rappel du sujet, Synthèse, Ouverture).
+2. Introduction (Accroche, Présentation du sujet, Intérêt personnel), Corps du Talk (Présentation d'un exemple, Analyse de cet exemple, Identification d'un problème, Étude de l'origine du problème, Proposition d'une solution), Conclusion (Résumé du problème, Rappel de la solution, Conclusion sur l'importance de la solution).
+3. Introduction (Accroche, Présentation du sujet, Annonce du plan), Corps du Talk (Contexte, Témoignages, Proposition de solution, Appel à l'action), Conclusion (Résumé, Projection positive, Remerciements).
+4. Introduction (Accroche, Présentation du sujet, Annonce du plan), Corps du Talk (Explication du sujet, Détail et exemples, Exploration des solutions, Présentation de la solution finale), Conclusion (Résumé, Projection positive, Message clé).
+5. Introduction (Présentation du problème, Solution proposée), Corps du Talk (Exemple du problème, Conséquences, Solutions, Avantages, Mise en œuvre), Conclusion (Résumé, Appel à l'action, Projection positive).
+6. Introduction (Accroche, Contexte, Plan), Corps du Talk (Problème, Solution proposée, Démonstration, Perspectives), Conclusion (Synthèse, Ouverture, Message clé).
+7. Introduction (Accroche, Sujet, Plan), Corps du Talk (Contexte, Solution, Démonstration, Applications possibles), Conclusion (Résumé, Projection, Message clé).
+Toutes ces structures suivent un schéma similaire : introduction du sujet, exploration du problème, proposition de solutions, et récapitulation des points clés.
+Ces propositions de structures pour un TED Talk incluent une introduction avec une accroche, la présentation du sujet et l'annonce du plan; un corps de talk détaillant le problème, les solutions, des exemples concrets et des perspectives ; et une conclusion résumant les points clés, projetant positive sur l'avenir et offrant un message durble. Ces structures peuvent être réutilisées et adaptées en fonction du nouveau sujet et des informations fournies, en gardant la même logique de présentation.
+Voici une structure générique possible pour un TED Talk : 
+
+Introduction
+  - Accroche pour capter l'attention 
+  - Présentation du sujet 
+  - Annonce du plan du talk
+
+Corps du Talk
+  - Explication du sujet /problématique /contexte
+  - Présentation de la solution proposée 
+  - Démonstration pratique ou cas d'étude 
+  - Discussion des implications et perspectives futures
+
+Conclusion
+  - Synthèse des points principaux 
+  - Projection positive dans le futur
+  - Message à retenir pour l'audience 
+
+Cette structure pourrait être réutilisée pour divers sujets en adaptant le contenu selon le contexte et les informations fournies. Elle permet une présentation claire et structurée du sujet tout en gardant le public engagé.
+Ces textes proposent plusieurs structures génériques pour un TED Talk, comprenant une introduction, un corps du talk et une conclusion. L'introduction généralement inclut une accroche, une présentation du sujet et une annonce du plan. Le corps du talk couvre l'explication du sujet, sa mise en contexte, l'identification d'un problème, la présentation d'une solution et parfois un appel à l'action. Enfin, la conclusion résume les points clés abordés, propose une projection positive pour l'avenir et livre un message à retenir pour l'audience. Ces structures peuvent être réutilisées en adaptant le contenu à différents sujets.
+Cluster 3 Theme: Introduction
+  - Accroche 
+  - Présentation du sujet / contexte
+  - Annonce de la problématique et du plan
+
+Corps du Talk
+  - Présentation de la situation actuelle / constatation d'un problème
+    - Élément 1 de la situation / problème
+    - Élément 2 de la situation / problème
+  - Explication de la problématique / Evolution
+    - Cause 1 / Point 1
+    - Cause 2 / Point 2
+  - Conséquences / impacts
+    - Conséquence 1 / Impact négatif 1
+    - Conséquence 2 / Impact négatif 2
+  - Solutions proposées / Appel à l'action
+    - Solution/Approche 1
+    - Solution/Approche 2
+
+Conclusion
+  - Résumé des points clés
+  - Projection positive dans l'avenir/Message d'espoir
+  - Appel à l'action / Recommandation
+  - Remerciements
+Un TED Talk bien structuré commence par une introduction accrocheuse et une présentation de la problématique. Ensuite, il expose le contexte, l'ampleur du problème et les solutions possibles avec des détails sur chacune. Finalement, il se conclut par un appel à l'action, un résumé des points clés, une projection positive sur l'avenir et une conclusion émotionnelle.
+Une structure générique pour un TED talk pourrait être : Introduction avec une accroche, présentation du sujet et de la problématique. Dans le corps du discours, la situation initiale est présentée avec contexte, des éléments clés, l'ampleur du problème est discutée, suivie de plusieurs solutions possibles avec des détails pour chacune et un appel à l'action. La conclusion résume les points clés, donne une projection positive de l'avenir et se termine sur une note émotionnelle. Pour un TED talk spécifique comme "Our century's greatest injustice ", la structure est similaire mais avec des données spécifiques, témoignages et implications liés au problème abordé. Des solutions correspondantes sont proposées avant un appel à l'action, et cela se termine avec une synthèse et un message d'espoir.
+Proposition de structure générique pour un TED talk : 
+
+Introduction : accroche, présentation du sujet, présentation de la problématique.
+
+Corps du Talk : présentation du contexte, explication du problème, proposition de solutions, appel à l'action.
+
+Conclusion : résumé des points clés, projection positive sur l'avenir, conclusion émotionnelle.
+Voici quatre propositions de structures génériques pour un TED Talk :
+
+1. Introduction (Accroche, présentation du sujet, présentation de la problématique), Corps du Talk (Contexte, explication du problème, solutions possibles, appel à l'action), Conclusion (Résumé, projection positive, conclusion émotionnelle)
+
+2. Introduction (Présentation du sujet, annonce du problème), Corps du Talk (Explication du problème, solutions possibles, appel à l'action), Conclusion (Synthèse, message d'espoir)
+
+3. Introduction (Présentation du sujet, explication de la problématique, annonce du plan), Corps du Talk (Méthode, développement des idées, exemples concrets), Conclusion (Résumé des idées principales, ouverture sur de nouvelles perspectives, conclusion percutante)
+
+4. Introduction (Présentation du contexte/problème, annonce de la thèse), Corps du Talk (Présentation de la situation problématique, argumentation en faveur de la solution, exemples concrets, appel à l'action), Conclusion (Résumé de la problématique et de la solution, message d'espoir et d'encouragement)
+La structure générique d'un TED Talk peut être divisée en Introduction (comprenant une accroche, une présentation du sujet et une présentation de la problématique), Corps du Talk (comprendre le contexte, expliquer l'ampleur du problème, proposer différentes solutions et un appel á l'action) et Conclusion (résumant les points clés, envisageant l'avenir et concluant émotionnellement). Il peut y avoir des variations en fonction du sujet.
+Ces structures génériques de TED talk proposent une introduction comprenant une accroche, la présentation du sujet et de la problématique. Le corps du talk propose des idées principales, des exemples concrets, une analyse de la situation et des solutions possibles, avec parfois un appel à l'action. Enfin, la conclusion résume les points clés, offre une perspective ou une ouverture, et se termine par un message à retenir.
+Il y a plusieurs façons de structurer un TED Talk. Habituellement, cela commence par une introduction avec une accroche, une présentation du sujet et de la problématique. Ensuite, le corps du talk peut comprendre l'explication du problème, la démonstration de son ampleur, la proposition de solutions et un appel à l'action. La conclusion résume les points clés, projette une vision positive pour l'avenir et se termine sur une note émotionnelle.
+Ces propositions présentent différents formats génériques pour structurer un TED Talk, chacune comprenant une introduction, un développement ou «corps du talk» et une conclusion. L'introduction comprend généralement une accroche, la présentation du sujet et de la problématique. Le corps du talk détaille la situation actuelle, explique la problématique, présente des solutions et fait appel à l'action. La conclusion résume les points clés, offre un message d'espoir ou d'encouragement, et se termine souvent par un appel à l'action.
+Différents modèles de structure pour un TED talk sont offerts, lesquels comprennent généralement une introduction pour présenter le sujet et la problématique, un corps du discours pour développer les différents points, soutenus par des données, des exemples ou des témoignages, et une conclusion pour résumer les points clés, offrir de nouvelles perspectives ou un appel à l'action.
+Les structures génériques des TED talks peuvent être très variées, mais elles commencent généralement par une introduction présentant le sujet et le problème, suivie du corps du discours qui expose la situation actuelle et présente des solutions possibles, et se terminent par une conclusion qui résume les points principaux, offre des perspectives et un appel à l'action. Cependant, ces éléments peuvent être adaptés en fonction du thème et du public visé.
+Cluster 4 Theme: Introduction
+  - Accroche personnelle
+  - Présentation du sujet
+  - Annonce du plan
+
+Corps du Talk
+  - Présentation du contexte / problème / expériences
+  - Analyse / Explication
+  - Illustration par des exemples concrets / témoignages
+  - Proposition d'une nouvelle approche / solution
+  - Mise en perspective
+
+Conclusion
+  - Synthèse des points abordées
+  - Conclusion personnelle / Message à retenir
+  - Ouverture / Appel à l'action
+Voici une structure générique d'un Ted Talk: ouverture par une accroche et une présentation du sujet avec un plan déclaré. Le corps du discours peut présenter le contexte historique, un témoignage personnel, une analyse de phénomène culturel et proposer une nouvelle approche. La conclusion englobe une synthèse, une invitation à l'action et une ouverture pour encourager la réflexion.
+Une structure générique pour un TED talk inclut une introduction avec une accroche, la présentation du sujet, et l'annonce du plan. Le corps du discours comprend la présentation du contexte historique, un témoignage personnel, une analyse d'un phénomène culturel et une proposition d'une nouvelle approche. En conclusion, une synthèse est fournie, ainsi qu'une invitation à l'action et un commentaire ouvert. Une autre structure similaire comprend une accroche personnelle et la présentation d'un problème dans l'introduction. Le corps du discours illustre alors des exemples concrets, explique les causes, présente les conséquences, et offre des solutions possibles pour le problème. Une synthèse est de nouveau utilisée en conclusion, ainsi qu'un appel à l'action.
+Ces structures proposent un format pour un TED Talk, comprenant une introduction (présentation du sujet, accroche et plan), un corps (analyse, exemples, contexte historique ou personnel, explications), et une conclusion (synthèse, invitation à l'action, ouverture.) Les structures varient légèrement en fonction du sujet ou de l'approche spécifique.
+Voici plusieurs propositions de structure pour un TED Talk, conformément au sujet et au style de présentation. Chaque proposition contient une introduction (présentation du sujet, plan), un corps (détails et développements du sujet) et une conclusion (synthèse, ouverture).
+Ces propositions de structures génériques pour un TED Talk comprennent trois parties principales: une introduction (avec une accroche et une présentation du sujet), un corps de discussion (impliquant généralement une présentation du problème ou du concept, l'exploration d'exemples ou de témoignages et la mise en perspective de solutions ou d'avenir) et une conclusion (qui résume le contenu du discours et offre généralement un appel à l'action ou une ouverture à la réflexion plus large). Le contenu exact et l'ordre de ces composants peuvent varier en fonction du thème et de l'approche du discours.
+Diverses structures génériques peuvent être utilisées pour la réalisation d'un TED Talk. Chaque structure a une introduction, un corps de discours, et une conclusion. Certains se concentrent davantage sur le contexte historique et l'analyse culturelle, tandis que d'autres mettent l'accent sur des problèmes spécifiques, leurs causes, conséquences et solutions potentielles. Chaque structure se concentre sur la réalisation d'une conclusion significative qui résume les points clés, appelle à l'action, ou propose une nouvelle perspective.
+Ces structures génériques pour les TED Talks comprennent généralement une introduction avec une accroche et la présentation du sujet, un corps où le sujet est détaillé, analysé et illustré, et une conclusion avec un résumé, un appel à l'action ou une ouverture. Les détails spécifiques varient en fonction du sujet du talk.
+La structure générique d'un TED talk peut varier, mais comprend généralement une introduction (avec une accroche, une présentation du sujet et une annonce du plan), un corps de discussion (qui pourrait inclure des exemples concrets, des analyses de causes et de conséquences, des propositions de solutions, l'histoire personnelle du conférencier, etc.) et une conclusion (avec une synthèse, un appel à l'action et/ou une ouverture à la discussion future).
+Il existe de nombreuses structures génériques pour un TED talk, toutes comprennent généralement une introduction comprenant une accroche et la présentation du sujet, un corps où le sujet est développé en profondeur grâce à des exemples, des témoignages, des analyses, des explications et propositions de solutions, et une conclusion qui offre une synthèse, un appel à l'action et une ouverture sur de nouvelles perspectives.
+Voici une série de structures génériques proposées pour un TED Talk :
+
+1) Accroche -> Présentation du Sujet -> Annonce du Plan -> Présentation du Contexte Historique -> Témoignage Personnel -> Analyse d'un Phénomène Culturel -> Proposition d'une Nouvelle Approche -> Synthèse -> Invitation à l'Action -> Ouverture
+
+2) Accroche Personnelle -> Présentation du Problème -> Exemples Concrets du Problème -> Explications des causes du Problème -> Conséquences du Problème -> Solutions Possibles -> Synthèse -> Appel à l'Action
+
+3) Accroche -> Présentation du Sujet -> Annonce du Plan -> Présentation de l'idée/du Concept -> Explication/Développement -> Exemples -> Nouveaux Aspects/Dimensions -> Exemples -> Vision d'Avenir/Perspectives -> Résumé des Points Clés -> Conclusion Personnelle -> Ouverture
+
+4) Anecdote Personnelle -> Présentation du Sujet -> Annonce du Plan -> Élément Déclencheur / Situation Initiale -> Réaction / Conséquences -> Explication -> Mise en Perspective -> Synthèse -> Message à retenir
+Cluster 5 Theme: Introduction
+- Présentation du sujet et de le problématique
+- Observation de la situation actuelle
+- Mise en contexte 
+
+Corps du Talk
+- Analyse approfondie de la situation ((Cause / Explication 1, Cause / Explication 2 ...)
+- Présentation de la solution proposée
+- Exemples et démonstration pratique
+- Appel à l'action 
+
+Conclusion 
+- Résumé des points clés et solutions proposées
+- Projection positive dans le futur
+- Message final à retenir
+- Ouverture sur des perspectives futures.
+Un modèle générique de structuration de talk pourrait être le suivant : une Introduction avec présentation du sujet et problématique, un Corps du Talk avec exposition de la situation actuelle, analyse des causes et discussion des solutions possibles. Le tout serait conclu par une synthèse et une projection positive en conclusion.
+L'introduction comprend une anecdote introductive, la présentation du sujet et l'annonce du plan. Le corps du Talk se compose du développement de la problématique avec des exemples à l'appui, des solutions possibles et un appel à l'action. La conclusion résume les points clés, propose une projection positive dans le futur et un message final positif.
+Les deux premières propositions de structure se concentrent sur une présentation formelle d'un sujet ou d'un problème, suivie d'une analyse, de solutions et d'une conclusion. La troisième proposition est plus engagement dans la solution en la démontrant concrètement. La structure finale d'un Talk dépendra du style et de l'objectif de l'orateur.
+Quatre propositions de structures génériques pour un talk ont été données. La première propose de commencer l’introduction par la présentation du sujet et une problématique, ensuite de développer la situation actuelle, les causes et les solutions possibles dans le corps du talk, et de conclure par une synthèse et une projection positive. La deuxième recommande de commencer par une anecdote introductive, développer ensuite la problématique avec des exemples à l'appui et des solutions possibles avant de terminer par un appel à l'action. La troisième privilégie une présentation du problème, la solution proposée, et une démonstration pratique de la solution. La dernière structure, après présentation du sujet, propose de développer trois points clés avec preuves et explication de leur importance, avant de conclure en résumant les points clés.
+Ces propositions présentent des structures génériques pour structurer un talk : 
+
+1. Introduction (sujet, contexte, problématique), corps du talk (situation actuelle, analyse, solutions possibles, appel à l'action), conclusion (synthèse, projection positive)
+
+2. Introduction (anecdote, sujet, plan), corps du talk (développement, exemples, solutions, appel à l'action), conclusion (résumé, projection, message final)
+
+3. Introduction (sujet et intervenant, objectif), corps du talk (problème, solution, démonstration), conclusion (résumé, intérêt de la solution)
+
+4. Introduction (sujet, contexte, points clés), corps du talk (développement des points clés avec preuves et explications), conclusion (résumé, message final, inspiration)
+
+5. Introduction (accroche, sujet, plan), corps du talk (points et sous-points avec transitions), conclusion (résumé, ouverture, conclusion percutante).
+Voici quelques propositions de structures génériques pour un talk : 
+
+1. Introduction (présentation du sujet, problématique), Corps du Talk (exposition de la situation actuelle, analyse, solutions possibles, et appel à l'action), et Conclusion (synthèse, projection positive).
+
+2. Introduction (anecdote, présentation du sujet, plan), Corps du Talk (problématique, exemples, solutions possibles, appel à l'action), et Conclusion (résumé des points clés, projection positive, message final positif).
+
+3. Introduction (présentation du sujet et intervenant, objectif du talk), Corps du Talk (problème, solution proposée, démonstration pratique), et Conclusion (résumé des points clés, conclusion sur l'intérêt de la solution).
+
+4. Introduction (présenter le sujet, contexte, points clés), Corps du Talk (développer chaque point clé avec preuves/exemples et explication de l'importance), et Conclusion (résumer les points clés, donner un message final, inspirer l'audience).
+
+5. Introduction (accroche, présentation du sujet, plan), Corps du Talk (développer chaque point avec sous-points et transitions), et Conclusion (résumé des points clés, ouverture, conclusion percutante).
+
+6. Introduction (contexte, problématique, stratégies envisagées), Corps du Talk (présentation de stratégies, recueil de données, analyse, mise en œuvre de nouvelle stratégie, optimisation), et Conclusion (situation actuelle positive, enseignements, application aux auditeurs).
+
+Chaque structure est modulable et adaptable selon les besoins spécifiques du talk.
+Les propositions de structure générique pour un talk ou une conférence comportent en général une Introduction avec la présentation du sujet, l'annonce du plan et la problématique ; Un Corps du talk qui développe les différents points clés avec des preuves ou exemples, les solutions possibles et une transition logique entre les points ; puis une Conclusion qui récapitule les points clés, donne un message final et laisse une perspective positive sur le futur.
+Il est proposé plusieurs structures génériques pour un talk, allant d'une structure traditionnelle d'introduction, développement et conclusion avec des sous-parties dédiées à la présentation du problème, l'analyse, les solutions possibles et l'appel à l'action, à d'autres structures qui comprennent des éléments comme une anecdote introductive, des exemples concrets, un message final positif, une projection positive sur l'avenir, entre autres. Chaque structure est suffisamment flexible pour s'adapter à différents sujets et contenus.
+Ces exemples de structures proposent différents plans pour un talk. Généralement, ils comprennent une introduction où on présente le sujet, le corps où on développe le sujet avec des exemples, analyses et/ou solutions, et une conclusion qui synthétise le talk. La structure peut être modifiée et ajustée selon le sujet et les besoins de l'auditeur.
+Proposer une structure générique pour un texte peut varier par son objet et son public. Cependant, certains éléments communs peuvent être trouvés dans la plupart des textes : une introduction présentant le sujet et annonçant le plan de développement, un corps de texte détaillant et analysant le sujet, comptant éventuellement plusieurs sous-parties avec des éléments factuels ou argumentatifs, et enfin une conclusion résumant les points clés et proposant éventuellement une projection ou une ouverture.
+Cluster 6 Theme: Introduction
+    - Accroche 
+    - Présentation et contexte du sujet
+    - Annonce du plan
+
+Corps du Talk
+    - Point/Problématique/Point de vue 1
+        - Sous-point/ Arguments / Détails du point 1
+        - Exemple ou anecdote illustrant le point 1
+        - Explication / Développement / Constat
+    - Point/Solution/Point de vue 2
+        - Sous-point/ Arguments / Détails du point 2
+        - Exemple ou anecdote illustrant le point 2
+        - Explication / Développement / Proposition
+    - Point/Problématique/Point de vue 3
+        - Sous-point/ Arguments / Détails du point 3
+        - Exemple ou anecdote illustrant le point 3
+        - Explication / Développement / Mise en oeuvre
+
+Conclusion
+    - Résumé des points clés / Rappel des arguments
+    - Conclusion générale ou personnelle
+    - Ouverture / perspective / Appel à l'action- Message final.
+Un plan de TED Talk comprend généralement une introduction avec une accroche, la présentation du sujet et l'annonce du plan, suivie du corps du discours qui comprend trois points principaux, chacun avec deux exemples et une transition. La conclusion résume les points clés, propose une perspective et termine avec une formule de clôture.
+Deux plans génériques pour structurer un TED Talk. Le premier comprend une introduction avec une accroche, présentation du sujet et annonce du plan, suivie du corps du talk avec trois points principaux, chacun avec deux exemples et une transition. La conclusion résume le contenu et propose une ouverture. Le second modèle comporte une introduction similaire au premier modèle. Le corps du talk se concentre davantage sur une problématique avec un constat, des conséquences et des solutions, et un appel à l'action. La conclusion résume également le contenu et propose une vision positive de l'avenir et un message final.
+Les trois plans présentent une structure similaire pour un TED Talk, commencant avec une introduction qui présente le sujet et annonce le plan. Dans le corps du talk, différents points ou problématiques sont abordés avec des exemples concrets. La conclusion résume les points clés abordés et propose une perspective ou ouverture sur l'avenir.
+Les plans génériques présentés proposent différentes structures pour un TED Talk. Tous commencent par une introduction comprenant une accroche, une présentation du sujet et une annonce du plan. Le corps du discours se divise généralement en plusieurs points, avec des exemples ou preuves pour chacun. Enfin, la conclusion résume généralement les points clefs, offre des perspectives et termine sur un message final.
+Ces cinq génériques décrivent une structure de base pour la réalisation d'un Talk TED, comprenant une introduction (avec une accroche, une présentation du sujet et une annonce du plan), un corps principal (avec divers points clés, exemples ou explications) et une conclusion (avec un résumé, une conclusion générale et une ouverture).
+Des plans génériques de TED Talk sont présentés, mettant en avant une structure commune basée sur une introduction (contenant une accroche, la présentation du sujet et l'annonce du plan), le corps du talk (composé de plusieurs points principaux, chacun illustré par des exemples) et une conclusion (comprenant un résumé des points clés, une ou plusieurs perspectives et une formule de clôture).
+Les plans génériques présentés offrent différentes structures pour organiser un TED Talk. Tous commencent par une introduction comprenant une accroche, la présentation du sujet et l'annonce du plan. Le corps du talk varie selon le plan, il peut comprendre des points clés développés avec des exemples, une problématique avec des solutions proposées, ou une proposition articulée autour de sous-points et d'exemples. Enfin, la conclusion doit toujours résumer les points clés, offrir une perspective ou une ouverture ou, parfois, un appel à l'action.
+Il existe de nombreux plans généraux pour structurer un TED Talk. Ils se composent tous en trois parties principales : une introduction, le corps du discours, et une conclusion. L'introduction énonce généralement le sujet et le plan, tandis que le corps du discours peut comprendre divers points ou arguments, souvent appuyés par des exemples ou des anecdotes. Enfin, la conclusion résume les points clés abordés et peut inclure une ouverture sur des perspectives futures. La spécificité de la structure dépendra du sujet de la présentation et du message que l'orateur souhaite transmettre.
+Ces plans génériques pour un TED Talk suggèrent une structure en trois parties : une introduction pour présenter le sujet et annoncer la suite du discours, un développement en plusieurs points clés étayés d'exemples ou d'anecdotes narrant un problème et proposant une solution, et une conclusion pour récapituler les points essentiels, apporter une perspective personnelle ou conclure sur une ouverture.
+Voici plusieurs exemples de plans génériques pour organiser un TED talk :
+
+Exemple 1:
+- Introduction (Accroche, présentation et annonce du plan)
+- Corps du discours (3 points principaux avec exemples)
+- Conclusion (Résumé, ouverture, clôture)
+
+Exemple 2:
+- Introduction (Accroche, sujet, plan)
+- Corps du discours (Problématique avec constat et conséquences, Solutions, Appel à l'action) 
+- Conclusion (Résumé, projection positive, message final)
+
+Exemple 3:
+- Introduction (Accroche, présentation, intérêt du sujet)
+- Corps du discours (Contexte, proposition, mise en œuvre)
+- Conclusion (Résumé, perspectives, message final)
+
+Exemple 4:
+- Introduction (Présentation du sujet, problème, annonce du plan)
+- Corps du discours (Exemples illustrant le problème, explication des exemples, solution)
+- Conclusion (Résumé du problème, solution, appel à l'action) 
+
+Exemple 5:
+- Introduction (Sujet, contexte, annonce du plan)
+- Corps du discours (3 points clés présentés avec détails et illustrés avec des exemples)
+- Conclusion (Résumé des points clés, perspectives, importance du sujet).
+Cluster 7 Theme: Introduction
+    - Accroche personnelle/anecdote
+    - Présentation du sujet et du contexte
+    - Introduction de la problématique principale
+
+Corps du Talk
+    - Éclairage détaillé sur le problème
+    - Témoignages ou anecdotes pour illustrer le problème
+    - Présentation d'exemples factuels ou données pour soutenir le propos
+    - Discussion des limitations des solutions actuelles (si applicable)
+    - Proposition et explication de la ou des nouvelles solutions
+    - Présentation des avantages de la solution proposée
+    - Appel à l'action si pertinent et/ou nécessaire
+
+Conclusion
+    - Résumé des points clés
+    - Rappel de l'appel à l'action (si existant)
+    - Message final d'espoir, d'inspiration ou à méditer
+    - Ouverture vers de nouvelles perspectives ou projets futurs.
+Un plan de conférence TED Talk comprend généralement une introduction où le sujet est présenté et le problème expliqué. Il se poursuit par le corps de la conférence où le problème est décrit en détail, ainsi que ses limites actuelles et la nouvelle solution. Cette solution est discutée en termes de ses caractéristiques, de son fonctionnement et de son impact sur les utilisateurs et à grande échelle. La conférence se termine par une conclusion résumant les points clés, une vue sur l'avenir et un message inspirant.
+Un TED talk commence généralement par une introduction, qui inclut la présentation du sujet, l'introduction du problème et la solution proposée. Le corps du talk comprend une description détaillée du problème, une explication des limites des solutions existantes, une présentation de la nouvelle solution et une discussion sur son impact positif. Le talk se termine par une conclusion qui résume les points clés, offre une projection sur l'avenir et un message d'inspiration.
+Il existe plusieurs approches pour structurer un TED Talk, mais elles comprennent généralement une introduction présentant le sujet et le problème, un corps principal explorant le problème en profondeur et présentant des solutions, et une conclusion résumant les points clés et laissant le public avec un message inspirant. Certaines structures peuvent également inclure des anecdotes personnelles, une mise en contexte du sujet, des exemples concrets, et un appel à l'action.
+Ces plans génériques pour une TED Talk incluent une introduction (présentation du sujet, du problème et de la solution proposée), un corps (discussion approfondie du problème, des solutions existantes et de la nouvelle solution proposée, avec discussion de l'impact positif) et une conclusion (résumé, projection sur l'avenir, message d'espoir). D'autres variantes incluent l'utilisation d'anecdotes personnelles, la mise en contexte du sujet, l'appel à l'action et l'ouverture vers de nouvelles perspectives. L'essentiel est de garder le public engagé et de laisser un impact durable.
+Voici la structure générale de plusieurs plans pour un TED Talk :
+
+Plan 1:
+- Introduction: Présentation du sujet, énonciation du problème, annonce de la solution.
+- Corps du discours: Description approfondie du problème, explication des limites des solutions existantes, présentation de la nouvelle solution, évaluation de son impact.
+- Conclusion: Résumé des points clés, projection sur l'avenir, message d'espoir.
+
+Plan 2:
+- Introduction: Anecdote personnelle, contexte du sujet, annonce de la problématique.
+- Corps du discours: Développement de la problématique, exemples et données de soutien, solutions proposées, appel à l'action.
+- Conclusion: Résumé des points principaux, message à être retenu, regard vers de nouvelles perspectives.
+
+Plan 3:
+- Introduction: Présentation du sujet, question fondamentale.
+- Corps du discours: Anecdote personnelle, lumière originale sur le sujet, exemples concrets, explication du point de vue, réflexion philosophique.
+- Conclusion: Résumé des points clés, message méditatif pour la foule.
+
+Plan 4:
+- Introduction: Présentation du contexte personnel, introduction du thème principal.
+- Corps du discours: Anecdote personnelle, précisions sur le thème, explication du problème, exemples concrets, pistes de solutions.
+- Conclusion: Résumé des points clés, appel à l'action, inspiration pour l'audience.
+
+Plan 5:
+- Introduction: Accroche, présentation du contexte, énonciation de la problématique.
+- Corps du discours: Témoignage personnel, appel à l'action collective, propositions de solutions.
+- Conclusion: Rappel de la problématique, message d'espoir, appel à la mobilisation.
+Les plans génériques pour les TED Talks suggèrent généralement de commencer par présenter le sujet, d'introduire un problème ou une question et d'annoncer une solution ou un point de vue. Ensuite, on développe le problème ou le sujet avec des détails, des exemples concrets, et des anecdotes. Enfin, on conclut par un résumé des points clés, un message inspirant ou un appel à l'action.
+Il y a plusieurs façons de structurer un TED Talk, mais généralement, ils ont une introduction où le sujet et le problème sont présentés, un corps qui développe ce problème et propose des solutions et une conclusion qui résume les points clés et donne un message inspirant ou un appel à l'action.
+Voici des plans génériques pour structurer un TED Talk :
+
+1. 
+    Introduction : Présentation du sujet, introduction du problème et annonce de la solution.
+    Corps du Talk : Description du problème, limitations des solutions existantes, présentation de la nouvelle solution et son impact.
+    Conclusion : Résumé, projection sur l'avenir et message d'inspiration.
+
+2. 
+    Introduction : Anecdote personnelle, mise en contexte et annonce de la problématique.
+    Corps du Talk : Développement de la problématique, exemples à l'appui, solutions proposées et appel à l'action.
+    Conclusion : Résumé, message à retenir et nouvelles perspectives.
+
+3. 
+    Introduction : Présentation du sujet et question fondamentale.
+    Corps du Talk : Anecdote personnelle, éclairage original, exemples concrets, explication du point de vue et réflexion philosophique.
+    Conclusion : Résumé et message à méditer.
+
+Il est important de noter que ces structures sont des guides et peuvent varier en fonction du sujet et de l'approche choisie. Les talks TED se caractérisent par leur narration captivante, leur contenu inspirant et leur développement créatif au-delà des limites traditionnelles du discours.
+Voici différents plans génériques pour la structure d'un TED Talk :
+ 
+ 1. Introduction qui présente le sujet, introduit la problématique et annonce la solution prévue. Le corps du Talk décrira le problème en détail, les limites des solutions existantes, la nouvelle solution, son impact et ses avantages. La conclusion résumera les points clés, fera une projection de l'avenir et sera inspirante.
+
+ 2. L'introduction comprend une anecdote personnelle et présente le contexte et la problématique. Le corps du Talk développe la problématique avec des exemples, des données à l'appui et des solutions, avant d'appeler à l'action. La conclusion résume les points principaux, délivre un message mémorable et ouvre à de nouvelles perspectives.
+
+ 3. L'introduction démarre par une question fondamentale liée au sujet. Le corps du Talk raconte une anecdote, donne des exemples concrets, apporte un éclairage original sur le sujet, partage un point de vue et une réflexion philosophique. La conclusion résume les points clés et laisse le public avec un message à méditer.
+
+ 4. L'introduction parle du contexte personnel et annonce le thème principal. Le corps du Talk propose une anecdote liée au thème, apporte des faits et des précisions sur ce dernier, explique le problème et propose des solutions. La conclusion résume les points clés, lance un appel à l'action et inspire l'audience.
+ 
+ 5. L'introduction débute par une accroche, une présentation du contexte et de la problématique. Le corps du Talk comprend un témoignage personnel, un appel à l’action collective et les solutions proposées. La conclusion rappelle la problématique, lance un message d'espoir et un appel à la mobilisation.
+
+ 6. L'introduction présente le sujet, fait une accroche et annonce le plan. Le corps du Talk raconte une expérience personnelle, explique la problématique, propose une solution, approfondit la solution et propose des exemples. La conclusion fait une synthèse et propose un conseil et un message à retenir. 
+     
+ 7. Enfin, un TED talk peut commencer par une accroche, une présentation du contexte et du sujet. Le corps du Talk raconte une anecdote personnelle, explique le phénomène avec des données factuelles et des témoignages, expose les conséquences et propose des solutions. La conclusion résume les points clés, lance un appel à l'action et termine sur une note émotionnelle.
+Le plan structurel d'un TED Talk peut varier, mais quelques éléments communs sont souvent présents. Une introduction qui présente le sujet et la problématique principale, suivie par le corps du talk qui explore en profondeur le sujet et propose souvent un témoignage personnel, une discussion approfondie du sujet, des exemples concrets et des solutions possibles. La conclusion résume généralement les points clés, offre une synthèse et termine sur une note inspirante.
+Cluster 8 Theme: Introduction
+    - Présentation du contexte/problématique
+    - Introduction du sujet principal
+
+Corps du Talk 
+    - Explication détaillée/expérience personnelle liée à la problématique
+    - Présentation et détails de la solution proposée
+    - Exemples concrets pour illustrer la situation et la solution
+    - Arguments et preuves à l'appui de la solution
+    - Impacts/principes/points clés de la thèse
+    
+Conclusion
+    - Résumé des points clés de la présentation
+    - Synthèse de la solution proposée
+    - Appel à l'action ou inspiration pour le changement
+    - Note de clôture (espoir, optimisme, inspiration)
+La structure générique d'un TED Talk comprend une introduction (présentation du speaker et contexte), un corps (expérience personnelle, solution proposée, exemples, résultats et vision future) et une conclusion (résumé et appel à l'action).
+Les talks TED suivent généralement une structure spécifique qui comprend une introduction où le conférencier et le sujet sont présentés. Le corps du talk contient l'expérience personnelle du conférencier, la solution qu'ils proposent, des exemples concrets et les résultats obtenus ainsi que leur vision future. Enfin, la conclusion recapitule les points clés et fait un appel à l'action.
+La structure générale d'une TED Talk comprend une introduction où le conférencier se présente et expose le contexte et le problème, un corps  où le conférencier partage une expérience personnelle liée au sujet, propose une solution, donne des exemples concrets de sa mise en œuvre et discute des résultats obtenus, et une conclusion qui résume les points clés et termine sur un appel à l'action. Les modifications peuvent inclure une explication plus détaillée de la problématique et du bénéfices de la solution par exemple.
+La structure générique d'un TED Talk comprend généralement une introduction présentant le sujet et le contexte, et annonçant les idées à développer. Le corps du talk explique la problématique, propose une solution, illustre avec des exemples et donne des preuves. La conclusion résume les points clés, inspire à l'action et termine sur une note optimiste.
+La structure générique d'un TED Talk peut se décomposer en trois parties principales : l'introduction, le corps du Talk et la conclusion. La première sert à présenter le sujet et le contexte, la deuxième développe la problématique, propose une solution et donne des exemples concrets ou donne des arguments pour/contre le point de vue, tandis que la dernière résume les points principaux, propose des perspectives futures et termine sur une note positive ou un appel à l'action.
+Il existe plusieurs structures génériques pour un TED Talk, mais elles comprennent généralement trois sections principales :
+
+Introduction : Présentation du speaker, du contexte, du sujet et de la problématique.
+Corps du Talk : Explication détaillée de la problématique, présentation de la solution proposée, exemples concrets et résultats obtenus, et vision future.
+Conclusion : Résumé des points clés et appel à l'action.
+La structure générique d'un TED Talk inclut généralement une introduction (présentation du speaker ou du contexte, introduction du sujet, présentation de la problématique), un corps du talk (expérience personnelle, solution proposée, exemples concrets, résultats obtenus et vision future) et une conclusion (résumé des points clés, appel à l'action).
+Voici quelques structures génériques pour un TED Talk : 
+
+Introduction : Présenter le contexte, le sujet et la problématique. 
+
+Corps du Talk : Décrire l'expérience personnelle du speaker liée au sujet, proposer une solution, donner des exemples concrets, résultats obtenus, et discuter des objectifs futur. 
+
+Conclusion : Résumer les points clés et un appel à l'action.
+
+Autres options de structure comprennent : 
+
+- Décrire le contexte et les enjeux, puis proposer une solution ou un changement, et illustrer avec des exemples.
+- Présenter la thèse principale, donner des preuves pour l'étayer, présenter un point de vue différent, et réexpliquer pourquoi la thèse principale est valable.
+- Introduire le problème principal, présenter la thèse principale, donner des preuves, raconter une anecdote personnelle, et faire le lien avec le contexte plus large. 
+
+Ces structures peuvent varier en fonction de la présentation et du message du speaker.
+Les structures génériques de TED Talk diffèrent légèrement, mais elles se suivent toutes un format comparable. Elles débutent avec une introduction présentant le sujet et le contexte, suivie du corps du discours qui développe la problématique, la solution et des exemples concrets, et se terminent par une synthèse et un appel à l'action.
+Il existe plusieurs structures pour un TED talk, généralement constituées d'une introduction (présentation du sujet, contexte, problématique), un corps du talk (développement d'arguments, exemples concrets, solutions proposées) et une conclusion (résumé des points clés, appel à l'action, perspectives futures).
+Cluster 9 Theme: Introduction
+    - Accroche/Présentation du sujet
+    - Présentation de l'intervenant
+    - Annonce du plan/Intérêt du sujet
+       
+Corps du Talk 
+    - Point/Thèse/Concept 1 
+        - Explication/Développement/Sous-point 1
+        - Exemples/ Illustration/Sous-point 2
+        - Transition/Bilan partiel
+    - Point/Thèse/Concept 2 
+        - Explication/Développement/Sous-point 1
+        - Exemples/Illustration/Sous-point 2
+        - Transition/Bilan partiel
+    - Point/Thèse/Concept 3
+        - Explication/Développement/Sous-point 1
+        - Exemples/Illustration/Sous-point 2
+        - Transition/Bilan partiel
+
+Conclusion 
+    - Résumé des points clés/Ouverture
+    - Conclusion générale/Conclusion personnelle
+    - Remerciements/Appel à l'action
+La structure générique d'un TED Talk comprend une introduction engageante avec une accroche, une présentation du sujet et l'annonce du plan. Le corps du discours présente la problématique avec divers éléments supportant l'idée, suivie d'une solution et d'un appel à l'action. Enfin, la conclusion est constituée d'un résumé des points clés, d'un message final et de remerciements.
+Une structure générique de TED talk peut comprendre une introduction avec une accroche, la présentation du sujet et l'annonce du plan. Le corps du discours couvre plusieurs points avec des sous-points et des exemples pour chaque point. La conclusion comporte un résumé des points principaux, une conclusion générale et un appel à l'action.
+TED Talks suivent généralement une structure comprenant une introduction (avec une accroche, la présentation du sujet et l'annonce du plan), un corps de présentation (présentant divers points de vue, éléments, problèmes ou solutions) et une conclusion (résumant les points clés, concluant et éventuellement incluant un appel à l'action ou une conclusion percutante).
+Les structures génériques proposées pour un TED Talk comprennent toujours une accroche et une présentation du sujet dans l'introduction, le développement de plusieurs points avec leurs sous-points et exemples dans le corps du discours, et une conclusion résumant les idées clés et énonçant un appel à l'action ou une ouverture.
+Cinq structures génériques pour un TED talk sont proposées ici : 
+
+1. Introduction (Accroche, Présentation, Annonce du Plan), Corps du talk (Problématique avec 3 éléments, Solution avec 3 éléments, Appel à l'action), Conclusion (Résumé, Message final, Remerciements).
+
+2. Introduction (Accroche, Présentation, Annonce du Plan), Corps du talk (3 Points avec sous-points et exemples), Conclusion (Résumé, Conclusion finale, Appel à l'action).
+
+3. Introduction (Accroche, Présentation, Intérêt du sujet), Corps du talk (2 Points de vue avec Arguments, Synthèse et transition), Conclusion (Résumé, Ouverture, Conclusion percutante).
+
+4. Introduction (Accroche, Présentation, Annonce du Plan), Corps du talk (Description, Explication, Exemples, Conséquences, Perspectives), Conclusion (Résumé, Conclusion générale, Ouverture/perspective).
+
+5. Introduction (Accroche, Présentation, Annonce du Plan), Corps du talk (Élément déclencheur, 3 Développements avec sous-points), Conclusion (Résumé, Conclusion, Ouverture).
+Des structures génériques pour un TED Talk peuvent inclure une introduction captivante, une présentation détaillée du sujet et un plan d'action. Cela pourrait être suivi par une analyse plus approfondie de la problématique, une présentation de solutions possibles et un appel à l'action. En conclusion, un résumé des points importants et un message final pourrait être inclus. D'autres structures peuvent inclure des exemples concrets, l'analyse des conséquences ou implications de la situation, ou encore la présentation de plusieurs points de vue soutenus par des arguments.
+Plusieurs structures génériques pour un TED talk sont proposées, généralement incluant une introduction avec une accroche et l'annonce du sujet, un corps central avec des points principaux et éventuellement des sous-points, ainsi qu'une conclusion qui résume les points clés et invite à la réflexion ou à l'action. Ces structures peuvent être personnalisées en fonction du contenu et du style de chaque talk.
+Les structures génériques pour un TED Talk comprennent généralement une introduction avec une accroche et une présentation du sujet, un corps du discours avec plusieurs points principaux subdivisés en sous-points et illustres par des exemples, et une conclusion qui résume les points clés et propose un appel à l'action ou une perspective d'ouverture. Ce format peut varier en fonction du sujet et de l'approche de l'orateur.
+Il existe de nombreuses structures génériques pour un TED talk. La plupart comprennent une introduction avec une accroche et la présentation du sujet, un corps principal composé de points clés développés avec des exemples concrets et une conclusion qui résume les points principaux et peut inclure un appel à l'action, une ouverture sur une perspective ou une conclusion personnelle. La structure peut varier en fonction du sujet et du style de l'orateur.
+Voici plusieurs structures génériques possibles pour un TED Talk :
+
+1. 
+    - Introduction : Accroche, Présentation du sujet, Annonce du plan
+    - Corps du Talk : Problématique et solutions, Appel à action
+    - Conclusion : Résumé points clés, Message final, Remerciements
+
+2. 
+    - Introduction : Accroche, Présentation du sujet, Annonce du plan
+    - Corps : Points principaux avec Sous-points et Exemples
+    - Conclusion : Résumé points clés, Conclusion finale, Appel à action
+
+3. 
+    - Introduction : Accroche, Présentation du sujet, Intérêt du sujet
+    - Corps : Divers points de vue avec Arguments respectifs, Synthèse
+    - Conclusion : Résumé idées principales, Ouverture sur nouvelles perspectives, Conclusion percutante
+
+4. 
+    - Introduction : Accroche, Présentation du sujet, Annonce du plan
+    - Corps : Description, Analyse, Exemples, Conséquences/Implications, Perspectives
+    - Conclusion : Résumé points clés, Conclusion générale, Ouverture
+
+5. 
+    - Introduction : Accroche, Présentation du sujet, Annonce du plan
+    - Corps : Élément déclencheur, Developpements sous-points
+    - Conclusion : Résumé, Conclusion, Ouverture
+
+6. 
+    - Introduction : Accroche, Présentation du sujet, Annonce du plan
+    - Corps : Plusieurs points avec Explication, Exemples, Transition
+    - Conclusion : Rappel des points clés, Ouverture/élément conclusif, Remerciements
+
+7. 
+    - Introduction : Présentation du sujet, Mise en contexte
+    - Corps : Points clés avec Sous-points 
+    - Conclusion : Résumé des points clés, Conclusion générale, Ouverture
+
+8. 
+    - Introduction : Présentation du sujet, Présentation de l'intervenant, Annonce du plan
+    - Corps : Présentation, Illustration et Conclusion partielle de plusieurs concepts
+    - Conclusion : Résumé des points clés, Ouverture
+
+9. 
+    - Introduction : Accroche, Présentation du sujet, Présentation de l'intervenant
+    - Corps : Points clés avec Explication, Exemple concret
+    - Conclusion : Résumé des points clés, Ouverture, Conclusion personnelle, Appel à l'action
+
+10. 
+    - Introduction : Présentation du contexte et sujet, Introduction de l'intervenant, Annonce du plan
+    - Corps : Thèse principale, Exemples, Objection principale, Réfutations, Bilans partiels
+    - Conclusion : Résumé des points clés, Ouverture sur perspective, Conclusion percutante.
+Cluster 10 Theme: Introduction
+    - Présentation du contexte/sujet
+    - Annonce du plan/thèse
+    - Événement déclencheur
+
+Corps du Talk  
+    - Présentation et explication du problème 
+    - Récit d'une expérience personnelle liée au sujet
+    - Description et analyse de cette expérience ou recherche
+    - Mise en perspective et lien avec des notions générales
+    - Proposition de solutions innovantes
+    - Illustration de la proposition à travers des exemples concrets 
+
+Conclusion
+    - Résumé des points clés
+    - Perspective future et appel à l'action
+    - Message à retenir et ouverture sur la discussion et le changement.
+Cette structure générique de TED Talk comprend une introduction présentant le contexte personnel et une expérience marquante de l'orateur, suivie d'une analyse détaillée de cette expérience, des moreaux appris, du lien avec son parcours professionnel, d'exemples historiques et d'innovations reflétant l'expérience. Il se termine par une vision pour l'avenir, des recommandations et une conclusion encourageante.
+La structure sémantique d'un TED Talk peut suivre deux formats génériques. Le premier se base sur l'expérience personnelle, l'analyse des leçons apprises et la vision pour l'avenir. Le deuxième format se base sur la présentation d'un problème, une solution proposée, et les avantages de cette solution. La conclusion résume généralement le talk et donne un aperçu des perspectives futures.
+La structure sémantique générique d'un TED Talk peut être résumée en trois parties principales : l'introduction, le corps du discours et la conclusion. L'introduction comprend le contexte personnel et une expérience marquante. Le corps du discours détaille cette expérience, l'analyse, la relie à d'autres phénomènes ou parcours professionnels, fournit des exemples historiques, évoque les innovations récentes et propose une vision d'avenir. La conclusion résume l'importance de l'expérience racontée, formule des recommandations et se termine sur une note d'espoir et d'engagement.
+Quatre structures sémantiques génériques de TED Talks : 
+
+1. Contexte personnel, expérience marquante de l'enfance, analyse et réflexion, relation avec le parcours professionnel, vision de l'avenir.
+
+2. Présentation du sujet, explication du problème, solution proposée, avantages, perspectives futures.
+
+3. Sujet, motivation personnelle, explication d'un phénomène, expérience vécue, réflexion et synthèse.
+
+4. Sujet/problème, thèse, présentation de l'expérience/recherche, interprétation des résultats, éléments additionnels, résumé, perspectives/appels à l'action.
+La structure sémantique générale d'un TED Talk comprend habituellement une introduction (présentation du sujet et contexte personnel), le corps du talk (explication détaillée du sujet avec exemples et perspectives personnelles), et une conclusion (résumé du message et perspectives futures ou appels à l'action). Certaines talks peuvent également contenir des éléments tels que des témoignages d'expérience personnelle, l'analyse des résultats d'une recherche, ou des réflexions générales sur le sujet.
+Ces structures sémantiques génériques pour un TED Talk incluent généralement une introduction avec la présentation du sujet et du contexte, un corps qui explore en détail le sujet à travers diverses méthodes (témoignages, recherches, analyses) et une conclusion qui résume les points clés, propose des perspectives futures et donne un message à retenir.
+Chaque TED Talk possède une structure générale qui comprend : une introduction présentant le sujet, le contexte et les motivations personnelles; une partie centrale établissant les détails, les expériences, les réflexions, les résultats, et les interprétations du sujet; et une conclusion résumant les points clés, proposant des perspectives, et formulant un message à retenir.
+Voici plusieurs structures sémantiques génériques pour un TED talk :
+
+1. Introduction (Présentation du contexte et du sujet, événement déclencheur), Corps du Talk (Détails de l'expérience marquante, analyse et relation avec le parcours professionnel, vision pour l'avenir), Conclusion (Résumé, recommandations, note d'espoir).
+
+2. Introduction (Présentation du sujet, problématique), Corps du Talk (Explication du problème, solution proposée, avantages de la solution, exemples concrets), Conclusion (Résumé, perspectives futures).
+
+3. Introduction (Présentation du sujet, contexte personnel), Corps du Talk (Explication du phénomène, expérience vécue, reflexion et lien avec des notions générales), Conclusion (Synthèse, portée générale).
+
+4. Introduction (Présentation du sujet, thèse), Corps du Talk (Présentation de la recherche, interprétation des résultats, anecdotes), Conclusion (Résumé, perspectives/appels à l'action).
+
+Ces structures varient en fonction de l'objectif du talk, mais visent toutes à captiver l'auditoire et à transmettre un message clair et inspirant.
+Ces structures sémantiques pour les TED Talks décrivent un format générique avec différentes sections : une introduction présentant le contexte et le sujet, un développement explorant le sujet en détail et éventuellement présentant une solution, et une conclusion récapitulant le message principal et invitant à l'action ou à la réflexion.
+La structure générique d'un TED Talk démarre avec l'introduction, où le sujet est présenté ainsi que le contexte personnel ou problématique qui le soulève. Ensuite, dans le corps du Talk, l'orateur développe pleinement le sujet à travers des explications, des expériences vécues, des réflexions, de l'analyse et fait appel à l'action. La conclusion résume les points clés, offre des perspectives futures, et transmet un message final à l'audience.
+Cluster 11 Theme: Introduction
+    - Accroche pour introduire le sujet
+    - Présentation du contexte et de l'objet du talk
+    - Annonce du problème ou questionnement 
+
+Corps du Talk
+    - Description du problème/sujet/de la démarche
+    - Explication de la méthode/technologie/solution proposée
+    - Détails sur la mise en place, notamment à travers des exemples concrets 
+    - Présentation des résultats/impacts, avec une analyse et interprétation
+    - Considération des implications et significations 
+
+Conclusion
+    - Résumé des points clés et synthèse des idées présentées 
+    - Ouverture vers de nouvelles perspectives et suites possibles 
+    - Message final à retenir pour inspirer les auditeurs.
+La structure d'un Ted Talk comprend généralement une introduction qui présente le sujet et le contexte, suivie d'une problématique. Il s'agit ensuite de présenter dans le corps du discours, la démarche, les hypothèses, la méthodologie utilisée et les résultats obtenus avant de les analyser et d'expliquer leurs implications. Enfin, la conclusion résume les points clés du sujet, ouvre de nouvelles perspectives et termine par un message à retenir.
+Ce modèle de structure sémantique pour un TED Talk comprend une introduction qui présente le sujet et pose le contexte, un corps qui détaille la démarche, la méthodologie, les résultats et leurs implications, et une conclusion qui résume les points clés et offre des perspectives futures.
+Une structure sémantique générique pour une conférence TED pourrait être constituée d'une introduction présentant le sujet et le contexte, d'un corps de discussion comprenant l'analyse et l'interprétation des données, et d'une conclusion résumant les idées et ouvrant sur de nouvelles perspectives.
+Voici quatre suggestions de structure sémantique générique pour un TED Talk, toutes comprenant une Introduction, un Corps du discours et une Conclusion. Les éléments abordés peuvent inclure : la présentation du sujet, la mise en contexte, le développement d'hypothèses, la méthodologie, l'analyse des résultats et les implications. Les sujets présentés peuvent être soutenus par des exemples concrets et se terminer par une synthèse des idées et une ouverture sur de nouvelles perspectives.
+Voici plusieurs propositions de structures sémantiques génériques pour un TED Talk :
+
+1. Introduction (présentation du sujet et du contexte), Corps du Talk (présentation de la démarche, analyse des résultats), Conclusion (résumé des points clés et perspectives futures).
+
+2. Introduction (accroche et contexte du sujet), Corps du Talk (présentation du problème et de la solution), Conclusion (synthèse et perspectives futures).
+
+3. Introduction (présentation du sujet et de la problématique), Corps du Talk (analyse de données sur le sujet), Conclusion (synthèse et perspectives futures).
+
+4. Introduction (contexte et motivation personnelle), Corps du Talk (définition du problème et de la solution), Conclusion (résumé et appel à l'action).
+
+5. Introduction (accroche et présentation du problème), Corps du Talk (exploration et mise en application de la solution), Conclusion (résumé et message à retenir).
+Ces diverses structures proposées pour organiser un TED Talk incluent généralement une introduction présentant le sujet, le contexte et la problématique, un corps de discours développant la démarche, les hypothèses, la méthodologie, les résultats et l'analyse, et une conclusion résumant les points clés et proposant de nouvelles perspectives.
+Ces structures proposent une manière ordonnée de structurer un talk TED, comprenant généralement une introduction où le sujet et la problématique sont définis, un corps où la méthodologie et les résultats sont discutés et finalement une conclusion qui résume les points clés et propose des pistes de réflexion pour l'avenir. Cette structure peut varier selon le sujet ou l'angle du talk, mais elle fournit un cadre de base pour l'organisation de l'information.
+Ces structures sémantiques génériques pour un TED Talk proposent différentes approches pour organiser un discours : introduction du sujet et contexte, présentation de la problématique, discussion de la démarche et des résultats, et enfin, une conclusion qui synthétise les idées clés et ouvre sur de nouvelles perspectives. Les éléments spécifiques peuvent inclure des anecdotes personnelles, des exemples concrets, une analyse de données, et une exploration de solutions potentielles. La présentation doit finir sur un message à retenir pour le public.
+Ces paragraphes décrivent différentes structures sémantiques pour des TED Talks, chacune composée d'une introduction (souvent comprenant la présentation du sujet et une mise en contexte), un corps principal (qui peut inclure la présentation d'un problème ou d'une question, l'exposition de faits, des exemples ou des données, et l'interprétation ou l'analyse de ceux-ci), et une conclusion (généralement un résumé ou une synthèse des points clés, avec parfois une ouverture sur de nouvelles perspectives ou un message final à retenir).
+Ces propositions sont des structures sémantiques génériques pour un discours TED Talk. Chaque structure contient une introduction qui présente le sujet et le contexte, un corps qui détaille la méthode, l'étude ou la solution proposée avec des exemples concrets, et une conclusion qui résume les points clés et ouvre sur de nouvelles perspectives ou un appel à l'action.
+Cluster 12 Theme: Introduction
+  - Accroche engageante 
+  - Précision du sujet
+  - Brève présentation du plan
+  
+Corps du Talk
+  - Contexte et problématiques associées
+  - Exemples pratiques ou cas d'étude
+  - Présentation de solutions innovantes
+  - Support visuel pour renforcer le propos
+
+Conclusion
+  - Récapitulation et rappel des points importants
+  - Vision prospective 
+  - Message final à retenir ou à agir.
+Dans cette TED Talk, l'orateur commence par une accroche pour introduire le sujet avant d'annoncer le plan de la présentation. Le corps du Talk se décompose en plusieurs parties : présentation du contexte de la problématique, exemples concrets, solutions innovantes proposées et illustrations visuelles. En conclusion, l'orateur synthétise les points importants de la présentation, donne une projection de l'avenir et termine par un message clé à retenir.
+Cluster 13 Theme: Introduction
+    - Accroche
+    - Introduction et contexte du sujet
+    - Présentation de la problématique 
+    - Annonce du plan
+  
+Corps du Talk
+    - Sous partie 1
+       - Présentation et explication de la problématique/point du sujet
+       - Illustrations / Données chiffrées 
+       - Experiences / Exemples / Témoignages 
+
+    - Sous partie 2
+       - Présentation de la solution/point du sujet 
+       - Illustrations / Données chiffrées / Arguments 
+       - Experiences / Exemples / Témoignages 
+
+    - Sous partie 3 (optionnelle)
+       - Présentation de l'argument/point du sujet  
+       - Illustrations / Données chiffrées / Arguments
+       - Experiences / Exemples / Témoignages 
+  
+  Conclusion
+    - Résumé des points clés
+    - Réaffirmation du message principal
+    - Ouverture / perspective pour le futur
+    - Appel à l'action (optionnel)
+La structure d'un TED Talk comprend généralement une introduction avec une accroche, la présentation du sujet et une question pour introduire le sujet. Le corps du discours comprend la présentation de la problématique, la description, les résultats et l'analyse de plusieurs expériences, et une synthèse des expériences et des enseignements. Enfin, la conclusion comprend une réponse à la problématique initiale et une ouverture philosophique.
+Deux structures sémantiques génériques pour un TED talk ont été proposées : 
+
+1. Introduction comprenant une accroche, une présentation du sujet et une question posée. Le corps du talk présente trois expériences avec leurs descriptions, résultats et analyses, suivi d'une synthèse. La conclusion donne une réponse à la problématique initiale et une ouverture philosophique. 
+
+2. Introduction avec une présentation du sujet, le contexte et la problématique, et l'annonce du plan. Le corps du talk présente le problème, propose des solutions possibles et un appel à l'action. La conclusion résume les points clés, réaffirme l'importance d'agir et donne un message d'espoir.
+La structure sémantique générique d'un TED Talk pourrait comprendre une introduction qui accroche l'auditoire, établit le sujet et introduit une question. Le corps du discours pourrait comprendre la présentation de la problématique, plusieurs expériences avec leurs descriptions, résultats et analyses, et la synthèse des enseignements. La conclusion pourrait apporter une réponse à la problématique initiale et une ouverture philosophique.
+Voici quelques structures sémantiques génériques proposées pour un TED talk :
+
+- Structure 1:
+  - Une introduction avec une accroche, une présentation du sujet et un questionnement.
+  - Un corps du discours présentant plusieurs expériences sous différents angles : description, résultats, et analyse.
+  - Une conclusion avec une réponse à la problématique et une ouverture philosophique.
+  
+- Structure 2:
+  - Une introduction présentant le sujet, le contexte et le plan.
+  - Un corps du discours avec une explication du problème, des solutions possibles et un appel à l'action.
+  - Une conclusion qui résume les points clés, réaffirme l'importance d'agir et offre un message d'espoir.
+  
+- Structure 3:
+  - Une introduction comprenant la présentation du sujet, une mise en contexte et l'annonce du plan.
+  - Un corps du discours détaillant plusieurs problématiques, avec leurs explications, exemples et solutions proposées.
+  - Une conclusion résumant les points clés, offrant des perspectives et exprimant le message à retenir.
+  
+- Structure 4:
+  - Une introduction présentant le sujet et le plan.
+  - Un corps du discours avec la présentation de la problématique, l'explication des causes et des origines, et des proposition de solutions.
+  - Une conclusion résumant les points clés, le message à retenir et offrant une projection positive sur l'avenir.
+Il existe une variété de structures sémantiques pour un TED Talk qui sont toutes structurées autour de l'introduction, du corps et de la conclusion. Certaines incluent la présentation d'un problème, l'explication des causes, la proposition de solutions et un message à retenir. D'autres se concentrent sur la défense d'une thèse à l'aide d'arguments variés et d'un appel à l'action. L'important est d'avoir une structure claire qui permet de développer un sujet de manière cohérente et captivante.
+Ces propositions offrent diverses structures pour un TED talk, chacune comprenant une introduction, un corps de discussion avec plusieurs domaines de concentration ou de points de discussion, et une conclusion. La structure finale dépend du sujet, des points clés et des messages à retenir.
+Ces structures sémantiques génériques pour un talk TED comprennent généralement une introduction où le sujet est présenté, le contexte est décrit et des questions ou problématiques sont évoquées. Le corps du talk comprend une ou plusieurs expériences ou points principaux, où chaque expérience est expliquée et des solutions sont proposées. Pour conclure, le conférencier résume les points clés, répond à la problématique initiale et peut donner un aperçu de l'avenir ou proposer un appel à l'action.
+Une structure sémantique pour un TED talk comprend généralement une introduction (avec accroche, présentation du sujet et annonce du plan), un corps central (divisé en plusieurs parties pour analyser le sujet de différents points de vue ou pour présenter plusieurs aspects), et une conclusion (avec un résumé des points clés et une ouverture pour encourager la réflexion). Les contenus spécifiques de ces parties peuvent varier en fonction du sujet et de l'orientation choisie par l'orateur.
+Ces exemples illustrent différentes structures pour un TED talk. Chaque structure propose une répartition générale du contenu entre une introduction (présentation du sujet, contexte, annonce du plan), un corps de présentation (développement de problématiques, présentation d'arguments ou d'expériences, proposition de solutions) et une conclusion (résumé des points clés, message final, projection future). La structure est modulable en fonction du sujet et de l'approche choisie par l'orateur.
+Les structures sémantiques génériques proposées pour un TED Talk sont essentiellement les mêmes, avec différentes nuances. 
+
+Elles comprennent :
+
+- Une introduction qui présente le sujet, énonce le problème et annonce le plan du discours.
+- Un corps de discours qui explique le problème, propose des solutions, offre des exemples concrets et illustre les avantages de ces solutions.
+- Une conclusion qui résume les points clés, propose une projection dans le futur et laisse un message à retenir.
+Cluster 14 Theme: Introduction
+    - Accroche 
+    - Présentation du sujet
+    - Annonce du plan
+
+Corps du Talk  
+    - Première Partie : Elément/Point de vue/Concept clé 1 
+        - Explications/Développement/Argument 1
+        - Exemples/Preuves concrets 1
+    - Transition
+    - Deuxième Partie : Elément/Point de vue/Concept clé 2
+        - Explications/Développement/Argument 2
+        - Exemples/Preuves concrets 2
+    - Transition
+    - Troisième Partie : Elément/Point de vue/Concept clé 2
+        - Explications/Développement/Argument 3
+        - Exemples/Preuves concrets 2
+
+Conclusion
+    - Résumé des points clés/ Synthèse des arguments
+    - Ouverture/ Perspective future
+    - Conclusion personnelle/Message à retenir  
+
+Cette structure moyenne générée est suffisamment flexible pour s'adapter à divers sujets tout en conservant une ossature logique et cohérente. Elle permet de disposer d'un format de talk structuré en introduction, développement et conclusion, chaque partie étant elle-même organisée de manière logique.
+La structure suggérée pour un TED Talk comprend une introduction captivante, un sujet présenté et un plan annoncé. Le corps du talk est divisé en divers éléments ou parties qui comportent leurs propres sous-éléments. La conclusion résume et propose des perspectives futures. Cette structure peut servir de modèle pour de futures conférences TED, avec des modifications pour s'adapter à différents sujets.
+La structure générique d'un TED Talk commence par une introduction accrocheuse, présente le sujet et annonce le plan. Le corps du discours se décompose ensuite en plusieurs éléments ou parties, chacun comprenant plusieurs sous-éléments. Enfin, la conclusion récapitule les points clés et propose de nouvelles perspectives. Cette même structure peut être réemployée pour structurer n'importe quel nouveau talk.
+Les trois structures proposées offrent un schéma similaire pour un TED talk avec une introduction, un développement et une conclusion. Chaque structure propose une organisation légèrement différente pour le corps du talk : dans la première, on trouve une série d'éléments et de sous-éléments ; dans la seconde, une division en trois parties, chacune comprenant trois éléments ; et la troisième propose une approche basée sur différents points de vue. Toutes ces structures sont conçues pour être génériques et peuvent être adaptées à n'importe quel sujet.
+Voici une structure générique pour un TED Talk :
+
+Introduction
+    - Accroche
+    - Présentation du sujet
+    - Annonce du plan
+
+Corps du Talk 
+    - Divers éléments ou sous-éléments
+
+Conclusion
+    - Résumé des points clés
+    - Conclusion ouverte/perspective
+
+Cet agencement peut être suivi pour créer un nouveau TED Talk en remplaçant les éléments par le contenu spécifique au nouveau sujet.
+Cinq structures génériques pour un TED Talk sont proposées :
+
+1) Structure comprenant une introduction avec une accroche, suivie de différents éléments décomposés en sous-éléments, terminant par une conclusion ouverte.
+
+2) Une structure similaire à la première mais divisée en trois parties spécifiques, avec une introduction, un développement et une conclusion. Cette structure va dans le concret tout en restant générique.
+
+3) Une structure qui présente alternativement différents points de vue avec leurs propres arguments et exemples, permettant une argumentation riche et détaillée.
+
+4) Une structure qui présente des concepts ou idées clés, illustrés par des exemples, favorisant un discours compréhensible et concret, avec une synthèse finale.
+
+5) Une structure basée sur une problématique, développée avec des arguments, contre-arguments, réponses et exemples, avant de clore avec un appel à l'action. Cette structure facilite un discours équilibré et riche.
+
+Ces structures génériques peuvent être réutilisées pour écrire de nouveau TED Talks, en adaptant le contenu spécifique au nouveau sujet tout en conservant l'ossature logique.
+Qu'ils soient organisés autour de plusieurs points de vue, axés sur des arguments et contre-arguments ou basés sur l'exploration de plusieurs concepts, les TED talks peuvent être structurés de manière générique. Cette structure générale comprend généralement une introduction avec une accroche et la présentation du sujet, un corps du discours développant plusieurs éléments ou idées et une conclusion résumant les points clés et offrant une ouverture. Cette structure peut être réutilisée et adaptée pour tout sujet de TED talk.
+Les structures génériques pour un TED Talk proposées mettent en avant une organisation tripartite classique : 
+- Introduction avec accroche, présentation du sujet et annonce du plan. 
+- Corps du talk présentant différentes parties, avec plusieurs éléments (idées, arguments, points de vue) soutenus par des exemples ou des preuves. Les parties peuvent être mises en lien par des transitions.
+- Conclusion résumant les points clés, offrant une ouverture et finissant souvent par une punchline ou un appel à l'action.
+
+Ces structures sont suffisamment flexibles pour s'adapter à divers sujets tout en conservant une logique et une cohérence. Elles pourraient ainsi servir de modèle pour l'élaboration d'autres TED Talks.
+Ces propositions de structure générique pour un TED talk comprennent toutes une introduction (avec une accroche, une présentation du sujet et une annonce du plan), un corps de présentation (avec différents éléments ou points clés expliqués et illustrés par des exemples) et une conclusion (avec un résumé des points clés et une ouverture sur le futur). Ces structures peuvent être adaptées en fonction des informations spécifiques du sujet à traiter, tout en conservant une certaine logique d'organisation pour faciliter la compréhension des auditeurs.
+Voici plusieurs propositions de structures génériques pour les TED Talks. Elles suivent toutes un format similaire avec une introduction pour accrocher l’auditoire, présenter le sujet et annoncer le plan, des corps de texte pour développer les différents points clés généralement à travers des exemples, et une conclusion pour résumer les points clés et offrir de nouvelles perspectives ou des appels à l'action. Ces structures sont assez flexibles pour s'adapter à divers sujets tout en gardant une cohérence logique et fluide.
+Ces propositions offrent toutes une structure logique générique pour un TED talk. Elles prévoient une introduction pour présenter le sujet et annoncer le plan, un corps pour développer différentes idées avec des exemples, et une conclusion pour résumer les points clés et ouvrir sur de nouvelles perspectives. Ces structures peuvent être réutilisées pour de nouveaux talks en adaptant le contenu spécifique au sujet abordé.
